@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Rick Grimes",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "Days Gone Bye",
+    "last-appearance": "Here's Negan",
+    "death-episode": "",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/53/Season_nine_rick_grimes.png/revision/latest?cb=20181029175100"
+  },
+  {
+    "id": 2,
+    "name": "Carl Grimes",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Days Gone Bye",
+    "last-appearance": "What We Become",
+    "death-episode": "Honor",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/67/Season_eight_carl_grimes.png/revision/latest?cb=20210916034904"
+  },
+  {
+    "id": 3,
+    "name": "Lori Grimes",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Days Gone Bye",
+    "last-appearance": "What Comes After",
+    "death-episode": "Killer Within",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/e7/Season_three_lori_grimes.png/revision/latest?cb=20191117025815"
+  },
+  {
+    "id": 4,
+    "name": "Lori Grimes",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "Killer Within",
+    "last-appearance": "",
+    "death-episode": "",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/39/Season_eleven_judith_grimes.png/revision/latest?cb=20210813215447"
+  }
+]
