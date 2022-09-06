@@ -5,8 +5,10 @@
     "status": "Unknown",
     "gender": "Male",
     "first-appearance": "Days Gone Bye",
-    "last-appearance": "Here's Negan",
-    "death-episode": "",
+    "last-appearance": {
+      "Flashback": "Here's Negan"
+    },
+    "death-episode": null,
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/53/Season_nine_rick_grimes.png/revision/latest?cb=20181029175100"
   },
   {
@@ -15,7 +17,9 @@
     "status": "Dead",
     "gender": "Male",
     "first-appearance": "Days Gone Bye",
-    "last-appearance": "What We Become",
+    "last-appearance": {
+     "Flashback": "What We Become"
+    },
     "death-episode": "Honor",
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/67/Season_eight_carl_grimes.png/revision/latest?cb=20210916034904"
   },
@@ -25,18 +29,426 @@
     "status": "Dead",
     "gender": "Female",
     "first-appearance": "Days Gone Bye",
-    "last-appearance": "What Comes After",
+    "last-appearance": {
+      "Voice": "What Comes After"
+    },
     "death-episode": "Killer Within",
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/e7/Season_three_lori_grimes.png/revision/latest?cb=20191117025815"
   },
   {
     "id": 4,
-    "name": "Lori Grimes",
+    "name": "Judith Grimes",
     "status": "Alive",
     "gender": "Female",
     "first-appearance": "Killer Within",
     "last-appearance": "",
     "death-episode": "",
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/39/Season_eleven_judith_grimes.png/revision/latest?cb=20210813215447"
+  },
+  {
+    "id": 5,
+    "name": "Lambert Kendal",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "Days Gone Bye",
+    "last-appearance": {
+      "Flashback": "Bloodletting"
+  },
+    "death-episode": "",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/13/Season_one_lambert_kendal.png/revision/latest?cb=20191117034541"
+  },
+  {
+    "id": 6,
+    "name": "Shane Walsh",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Days Gone Bye",
+    "last-appearance": {
+      "Dream": "What Comes After"
+    },
+    "death-episode": {
+     "Alive": "Better Angels",
+     "Zombified": "Better Angels"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a8/Season-two_shane_walsh.png/revision/latest?cb=20220111041809"
+  },
+  {
+    "id": 7,
+    "name": "Leon Basset",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Days Gone Bye",
+    "last-appearance": {
+     "Flashback": "Bloodletting"
+    },
+    "death-episode": {
+      "Alive": "Days Gone Bye",
+      "Zombified": "Days Gone Bye"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a8/Season-two_shane_walsh.png/revision/latest?cb=20220111041809"
+  },
+  {
+    "id": 8,
+    "name": "Morgan Jones",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "Days Gone Bye",
+    "last-appearance": {
+      "Voice": "What Comes After"
+    },
+    "death-episode": "",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f0/Season_eight_morgan_jones.png/revision/latest?cb=20190114213825"
+  },
+  {
+    "id": 9,
+    "name": "Jenny Jones",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Days Gone Bye",
+    "last-appearance": {
+      "Flashback": "Bury Me Here"
+    },
+    "death-episode": {
+      "Alive-Offscreen": "Days Gone Bye",
+      "Zombified-Offscreen": "Clear"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/6a/Jennypic.jpg/revision/latest?cb=20121003190109"
+  },
+  {
+    "id": 10,
+    "name": "Duane Jones",
+    "status": "Undead",
+    "gender": "Male",
+    "first-appearance": "Days Gone Bye",
+    "last-appearance": {
+     "Archive-Footage": "Bury Me Here"
+    },
+    "death-episode": {
+     "Alive-Offscreen": "Clear"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/90/Season_one_duane_jones.png/revision/latest?cb=20131115205138"
+  },
+  {
+    "id": 11,
+    "name": "Mr. Siggard",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+     "Corpse": "Days Gone Bye"
+    },
+    "last-appearance": {
+     "Corpse": "Days Gone Bye"
+    },
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c1/Vlcsnap-2013-09-17-17h24m54s14.png/revision/latest?cb=20130918014417"
+  },
+  {
+    "id": 12,
+    "name": "Mrs. Siggard",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": {
+     "Corpse": "Days Gone Bye"
+    },
+    "last-appearance": {
+     "Corpse": "Days Gone Bye"
+    },
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4d/Season_one_mrs_siggard.png/revision/latest?cb=20190119181135"
+  },
+  {
+    "id": 13,
+    "name": "Paula",
+    "status": "Unknown",
+    "gender": "Female",
+    "first-appearance": {
+     "Flashback": "Bloodletting"
+    },
+    "last-appearance": {
+     "Flashback": "Bloodletting"
+    },
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/29/Paula_%28Bloodletting%29.jpg/revision/latest?cb=20191117034535"
+  },
+  {
+    "id": 14,
+    "name": "Glenn Rhee",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+      "Voice": "Days Gone Bye",
+      "Physically": "Guts"
+    },
+    "last-appearance": {
+      "Hallucination": "What We Become"
+      } ,
+    "death-episode": {
+      "Flashback": "The Day Will Come When You Won't Be"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/80/Season_seven_glenn_rhee.png/revision/latest?cb=20210909155203"
+  },
+  {
+    "id": 15,
+    "name": "Theodore 'T-Dog' Douglas",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Guts",
+    "last-appearance": {
+      "Dream-Corpse": "What Comes After"
+      },
+    "death-episode": "Killer Within",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/b1/Season_three_theodore_douglas.png/revision/latest?cb=20140803201735"
+  },
+  {
+    "id": 16,
+    "name": "Dale Horvath",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Days Gone Bye",
+    "last-appearance": {
+      "Dream-Corpse": "What Comes After"
+    },
+    "death-episode": "Judge, Jury, Executioner",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a8/Season_two_dale_horvath.png/revision/latest?cb=20220111151126"
+  },
+  {
+    "id": 16,
+    "name": "Jacqui",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Guts",
+    "last-appearance": {
+      "Flashback":"The Day Will Come When You Won't Be"
+      } ,
+    "death-episode": "TS-19",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/90/Season_one_jacqui_%282%29.png/revision/latest?cb=20190729163854"
+  },
+  {
+    "id": 17,
+    "name": "Jim",
+    "status": "Undead",
+    "gender": "Male",
+    "first-appearance": "Guts",
+    "last-appearance": {
+      "Voice": "Hounded"
+      } ,
+    "death-episode": {
+      "Alive": "Wildfire"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/18/Season_one_jim.png/revision/latest?cb=20220730223700"
+  },
+  {
+    "id": 18,
+    "name": "Carol Peletier",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "Tell It to the Frogs",
+    "last-appearance": "" ,
+    "death-episode": "",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/5f/Season_eleven_carol_peletier.png/revision/latest?cb=20220314151058"
+  },
+  {
+    "id": 19,
+    "name": "Sophia Peletier",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Tell It to the Frogs",
+    "last-appearance": {
+      "Hallucination": "Ghosts"
+      } ,
+    "death-episode": {
+      "Alive-Offscreen": "What Lies Ahead",
+      "Zombified": "Pretty Much Dead Already"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c9/SophiaTVface.jpg/revision/latest?cb=20120818215733"
+  },
+  {
+    "id": 20,
+    "name": "Ed Peletier",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Tell It to the Frogs",
+    "last-appearance": {
+      "Flashback": "Chupacabra"
+    },
+    "death-episode": {
+      "Alive": "Vatos"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0a/Season_one_ed_peletier.png/revision/latest?cb=20210319033921"
+  },
+  {
+    "id": 21,
+    "name": "Daryl Dixon",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Tell It to the Frogs",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/85/Season_eleven_daryl_dixon.png/revision/latest?cb=20220404151444"
+  },
+  {
+    "id": 22,
+    "name": "Merle Dixon",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Guts",
+    "last-appearance": "This Sorrowful Life",
+    "death-episode": {
+      "Alive": "This Sorrowful Life",
+      "Zombified": "This Sorrowful Life"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/87/Season_three_merle_dixon.png/revision/latest?cb=20210226033029"
+  },
+  {
+    "id": 23,
+    "name": "Andrea",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Guts",
+    "last-appearance": {
+      "Hallucination": "What We Become"
+    },
+    "death-episode": "Welcome to the Tombs" ,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ec/Season_three_andrea.png/revision/latest?cb=20210226031328"
+  },
+  {
+    "id": 24,
+    "name": "Amy",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Days Gone Bye",
+    "last-appearance": {
+      "Dream-Corpse": "What Comes After"
+    },
+    "death-episode": {
+      "Alive": "Vatos",
+      "Zombified": "Wildfire"
+    } ,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/9c/Season_one_amy.png/revision/latest?cb=20180905005113"
+  },
+  {
+    "id": 25,
+    "name": "Morales",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Guts",
+    "last-appearance": "Monsters",
+    "death-episode": "Monsters",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/38/Season_eight_morales.png/revision/latest?cb=20180905005121"
+  },
+  {
+    "id": 26,
+    "name": "Miranda",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Tell It to the Frogs",
+    "last-appearance": {
+      "Photograph": "The Damned"
+    },
+    "death-episode": {
+      "Offscreen": "Monsters"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/56/Season_one_miranda_morales.png/revision/latest?cb=20200412011132"
+  },
+  {
+    "id": 27,
+    "name": "Louis Morales",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Tell It to the Frogs",
+    "last-appearance": "Wildfire",
+    "death-episode": {
+      "Offscreen": "Monsters"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/b0/Louis_Morales_S1.png/revision/latest?cb=20200506020129"
+  },
+  {
+    "id": 28,
+    "name": "Eliza Morales",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Tell It to the Frogs",
+    "last-appearance": "Wildfire",
+    "death-episode": {
+      "Offscreen": "Monsters"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/73/Eliza_Morales_S1.png/revision/latest?cb=20200506020243"
+  },
+  {
+    "id": 29,
+    "name": "Guilhermo",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Vatos",
+    "last-appearance": "Vatos",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/2c/Season_one_guillermo.png/revision/latest?cb=20191231050848"
+  },
+  {
+    "id": 30,
+    "name": "Jorge",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Vatos",
+    "last-appearance": "Vatos",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/82/Season_one_jorge.png/revision/latest?cb=20161211003524"
+  },
+  {
+    "id": 31,
+    "name": "Mr. Gilbert",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Vatos",
+    "last-appearance": "Vatos",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1e/Mr_Gilbert_Vatos.png/revision/latest?cb=20131130152055"
+  },
+  {
+    "id": 32,
+    "name": "Felipe",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Vatos",
+    "last-appearance": "Vatos",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f7/Felipe_Vatos.png/revision/latest?cb=20131130151659"
+  },
+  {
+    "id": 33,
+    "name": "Miguel",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Vatos",
+    "last-appearance": "Vatos",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/82/Miguel_%28Vatos%29.png/revision/latest?cb=20121207173012"
+  },
+  {
+    "id": 34,
+    "name": "Dr. Edwin Jenner",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Wildfire",
+    "last-appearance": "TS-19",
+    "death-episode": "TS-19",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/26/Season_one_edwin_jenner.png/revision/latest?cb=20210921234158"
+  },
+  {
+    "id": 35,
+    "name": "Dr. Candace Jenner",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": {
+      "Corpse": "TS-19"
+    },
+    "last-appearance": {
+      "Corpse": "TS-19"
+    },
+    "death-episode": {
+      "Alive-Offscreen": "TS-19",
+      "Zombified-Offscreen": "TS-19"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/19/Season_one_candace_jenner.png/revision/latest?cb=20210606013924"
   }
 ]
