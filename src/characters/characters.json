@@ -6,7 +6,7 @@
     "gender": "Male",
     "first-appearance": "Days Gone Bye",
     "last-appearance": {
-      "Flashback": "Here's Negan"
+      "flashback": "Here's Negan"
     },
     "death-episode": null,
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/53/Season_nine_rick_grimes.png/revision/latest?cb=20181029175100"
@@ -18,7 +18,7 @@
     "gender": "Male",
     "first-appearance": "Days Gone Bye",
     "last-appearance": {
-     "Flashback": "What We Become"
+     "flashback": "What We Become"
     },
     "death-episode": "Honor",
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/67/Season_eight_carl_grimes.png/revision/latest?cb=20210916034904"
@@ -30,7 +30,7 @@
     "gender": "Female",
     "first-appearance": "Days Gone Bye",
     "last-appearance": {
-      "Voice": "What Comes After"
+      "voice": "What Comes After"
     },
     "death-episode": "Killer Within",
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/e7/Season_three_lori_grimes.png/revision/latest?cb=20191117025815"
@@ -52,7 +52,7 @@
     "gender": "Male",
     "first-appearance": "Days Gone Bye",
     "last-appearance": {
-      "Flashback": "Bloodletting"
+      "flashback": "Bloodletting"
   },
     "death-episode": "",
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/13/Season_one_lambert_kendal.png/revision/latest?cb=20191117034541"
@@ -64,11 +64,11 @@
     "gender": "Male",
     "first-appearance": "Days Gone Bye",
     "last-appearance": {
-      "Dream": "What Comes After"
+      "dream": "What Comes After"
     },
     "death-episode": {
-     "Alive": "Better Angels",
-     "Zombified": "Better Angels"
+     "alive": "Better Angels",
+     "zombified": "Better Angels"
     },
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a8/Season-two_shane_walsh.png/revision/latest?cb=20220111041809"
   },
@@ -79,13 +79,13 @@
     "gender": "Male",
     "first-appearance": "Days Gone Bye",
     "last-appearance": {
-     "Flashback": "Bloodletting"
+     "flashback": "Bloodletting"
     },
     "death-episode": {
-      "Alive": "Days Gone Bye",
-      "Zombified": "Days Gone Bye"
+      "alive": "Days Gone Bye",
+      "zombified": "Days Gone Bye"
     },
-    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a8/Season-two_shane_walsh.png/revision/latest?cb=20220111041809"
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/56/Season_one_leon_basset.png/revision/latest?cb=20191117034220"
   },
   {
     "id": 8,
@@ -94,7 +94,7 @@
     "gender": "Male",
     "first-appearance": "Days Gone Bye",
     "last-appearance": {
-      "Voice": "What Comes After"
+      "voice": "What Comes After"
     },
     "death-episode": "",
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f0/Season_eight_morgan_jones.png/revision/latest?cb=20190114213825"
@@ -106,11 +106,11 @@
     "gender": "Female",
     "first-appearance": "Days Gone Bye",
     "last-appearance": {
-      "Flashback": "Bury Me Here"
+      "flashback": "Bury Me Here"
     },
     "death-episode": {
-      "Alive-Offscreen": "Days Gone Bye",
-      "Zombified-Offscreen": "Clear"
+      "alive-confirmed": "Days Gone Bye",
+      "zombified-confirmed": "Clear"
     },
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/6a/Jennypic.jpg/revision/latest?cb=20121003190109"
   },
@@ -121,10 +121,10 @@
     "gender": "Male",
     "first-appearance": "Days Gone Bye",
     "last-appearance": {
-     "Archive-Footage": "Bury Me Here"
+     "archive-footage": "Bury Me Here"
     },
     "death-episode": {
-     "Alive-Offscreen": "Clear"
+     "alive-confirmed": "Clear"
     },
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/90/Season_one_duane_jones.png/revision/latest?cb=20131115205138"
   },
@@ -134,10 +134,10 @@
     "status": "Dead",
     "gender": "Male",
     "first-appearance": {
-     "Corpse": "Days Gone Bye"
+     "corpse": "Days Gone Bye"
     },
     "last-appearance": {
-     "Corpse": "Days Gone Bye"
+     "corpse": "Days Gone Bye"
     },
     "death-episode": null,
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c1/Vlcsnap-2013-09-17-17h24m54s14.png/revision/latest?cb=20130918014417"
@@ -148,10 +148,10 @@
     "status": "Dead",
     "gender": "Female",
     "first-appearance": {
-     "Corpse": "Days Gone Bye"
+     "corpse": "Days Gone Bye"
     },
     "last-appearance": {
-     "Corpse": "Days Gone Bye"
+     "corpse": "Days Gone Bye"
     },
     "death-episode": null,
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4d/Season_one_mrs_siggard.png/revision/latest?cb=20190119181135"
@@ -162,10 +162,10 @@
     "status": "Unknown",
     "gender": "Female",
     "first-appearance": {
-     "Flashback": "Bloodletting"
+     "flashback": "Bloodletting"
     },
     "last-appearance": {
-     "Flashback": "Bloodletting"
+     "flashback": "Bloodletting"
     },
     "death-episode": null,
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/29/Paula_%28Bloodletting%29.jpg/revision/latest?cb=20191117034535"
@@ -176,14 +176,14 @@
     "status": "Dead",
     "gender": "Male",
     "first-appearance": {
-      "Voice": "Days Gone Bye",
-      "Physically": "Guts"
+      "voice": "Days Gone Bye",
+      "physically": "Guts"
     },
     "last-appearance": {
-      "Hallucination": "What We Become"
+      "hallucination": "What We Become"
       } ,
     "death-episode": {
-      "Flashback": "The Day Will Come When You Won't Be"
+      "flashback": "The Day Will Come When You Won't Be"
     },
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/80/Season_seven_glenn_rhee.png/revision/latest?cb=20210909155203"
   },
@@ -194,7 +194,7 @@
     "gender": "Male",
     "first-appearance": "Guts",
     "last-appearance": {
-      "Dream-Corpse": "What Comes After"
+      "dream-corpse": "What Comes After"
       },
     "death-episode": "Killer Within",
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/b1/Season_three_theodore_douglas.png/revision/latest?cb=20140803201735"
@@ -206,7 +206,7 @@
     "gender": "Male",
     "first-appearance": "Days Gone Bye",
     "last-appearance": {
-      "Dream-Corpse": "What Comes After"
+      "dream-corpse": "What Comes After"
     },
     "death-episode": "Judge, Jury, Executioner",
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a8/Season_two_dale_horvath.png/revision/latest?cb=20220111151126"
@@ -218,7 +218,7 @@
     "gender": "Female",
     "first-appearance": "Guts",
     "last-appearance": {
-      "Flashback":"The Day Will Come When You Won't Be"
+      "flashback":"The Day Will Come When You Won't Be"
       } ,
     "death-episode": "TS-19",
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/90/Season_one_jacqui_%282%29.png/revision/latest?cb=20190729163854"
@@ -230,10 +230,10 @@
     "gender": "Male",
     "first-appearance": "Guts",
     "last-appearance": {
-      "Voice": "Hounded"
+      "voice": "Hounded"
       } ,
     "death-episode": {
-      "Alive": "Wildfire"
+      "alive": "Wildfire"
     },
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/18/Season_one_jim.png/revision/latest?cb=20220730223700"
   },
@@ -254,11 +254,11 @@
     "gender": "Female",
     "first-appearance": "Tell It to the Frogs",
     "last-appearance": {
-      "Hallucination": "Ghosts"
+      "hallucination": "Ghosts"
       } ,
     "death-episode": {
-      "Alive-Offscreen": "What Lies Ahead",
-      "Zombified": "Pretty Much Dead Already"
+      "alive-offscreen": "What Lies Ahead",
+      "zombified": "Pretty Much Dead Already"
     },
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c9/SophiaTVface.jpg/revision/latest?cb=20120818215733"
   },
@@ -269,10 +269,10 @@
     "gender": "Male",
     "first-appearance": "Tell It to the Frogs",
     "last-appearance": {
-      "Flashback": "Chupacabra"
+      "flashback": "Chupacabra"
     },
     "death-episode": {
-      "Alive": "Vatos"
+      "alive": "Vatos"
     },
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0a/Season_one_ed_peletier.png/revision/latest?cb=20210319033921"
   },
@@ -294,8 +294,8 @@
     "first-appearance": "Guts",
     "last-appearance": "This Sorrowful Life",
     "death-episode": {
-      "Alive": "This Sorrowful Life",
-      "Zombified": "This Sorrowful Life"
+      "alive": "This Sorrowful Life",
+      "zombified": "This Sorrowful Life"
     },
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/87/Season_three_merle_dixon.png/revision/latest?cb=20210226033029"
   },
@@ -306,7 +306,7 @@
     "gender": "Female",
     "first-appearance": "Guts",
     "last-appearance": {
-      "Hallucination": "What We Become"
+      "hallucination": "What We Become"
     },
     "death-episode": "Welcome to the Tombs" ,
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ec/Season_three_andrea.png/revision/latest?cb=20210226031328"
@@ -318,11 +318,11 @@
     "gender": "Female",
     "first-appearance": "Days Gone Bye",
     "last-appearance": {
-      "Dream-Corpse": "What Comes After"
+      "dream-corpse": "What Comes After"
     },
     "death-episode": {
-      "Alive": "Vatos",
-      "Zombified": "Wildfire"
+      "alive": "Vatos",
+      "zombified": "Wildfire"
     } ,
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/9c/Season_one_amy.png/revision/latest?cb=20180905005113"
   },
@@ -343,10 +343,10 @@
     "gender": "Female",
     "first-appearance": "Tell It to the Frogs",
     "last-appearance": {
-      "Photograph": "The Damned"
+      "photograph": "The Damned"
     },
     "death-episode": {
-      "Offscreen": "Monsters"
+      "confirmed": "Monsters"
     },
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/56/Season_one_miranda_morales.png/revision/latest?cb=20200412011132"
   },
@@ -358,7 +358,7 @@
     "first-appearance": "Tell It to the Frogs",
     "last-appearance": "Wildfire",
     "death-episode": {
-      "Offscreen": "Monsters"
+      "confirmed": "Monsters"
     },
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/b0/Louis_Morales_S1.png/revision/latest?cb=20200506020129"
   },
@@ -370,7 +370,7 @@
     "first-appearance": "Tell It to the Frogs",
     "last-appearance": "Wildfire",
     "death-episode": {
-      "Offscreen": "Monsters"
+      "confirmed": "Monsters"
     },
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/73/Eliza_Morales_S1.png/revision/latest?cb=20200506020243"
   },
@@ -440,15 +440,1336 @@
     "status": "Dead",
     "gender": "Female",
     "first-appearance": {
-      "Corpse": "TS-19"
+      "corpse": "TS-19"
     },
     "last-appearance": {
-      "Corpse": "TS-19"
+      "corpse": "TS-19"
     },
     "death-episode": {
-      "Alive-Offscreen": "TS-19",
-      "Zombified-Offscreen": "TS-19"
+      "alive-confirmed": "TS-19",
+      "zombified-cconfirmed": "TS-19"
     },
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/19/Season_one_candace_jenner.png/revision/latest?cb=20210606013924"
+  },
+  {
+    "id": 36,
+    "name": "Maggie Rhee",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "Bloodletting",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/ad/Season_eleven_maggie_rhee.png/revision/latest/scale-to-width-down/350?cb=20220404151355"
+  },
+  {
+    "id": 37,
+    "name": "Beth Greene",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Bloodletting",
+    "last-appearance": {
+      "dream-corpse-voice": "What Comes After"
+    },
+    "death-episode": "Coda",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/2e/Season_five_beth_greene_%281%29.png/revision/latest/scale-to-width-down/350?cb=20210830064555"
+  },
+  {
+    "id": 38,
+    "name": "Hershel Greene",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Bloodletting",
+    "last-appearance": {
+      "dream": "What Comes After"
+    },
+    "death-episode": {
+      "alive": "Too Far Gone",
+      "zombified": "After"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ec/Season_four_hershel_greene.png/revision/latest/scale-to-width-down/350?cb=20210605160134"
+  },
+  {
+    "id": 39,
+    "name": "Annette Greene",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": {
+      "photograph": "Save the Last One"
+    },
+    "last-appearance": {
+      "photograph": "18 Miles Out"
+    },
+    "death-episode": {
+      "alive-confirmed": "Bloodletting",
+      "zombified": "Nebraska"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/bd/Season_two_annette_greene_alive.png/revision/latest/scale-to-width-down/350?cb=20130727231014"
+  },
+  {
+    "id": 40,
+    "name": "Shawn Greene",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+      "photograph": "Save the Last One"
+    },
+    "last-appearance": {
+      "photograph": "18 Miles Out"
+    },
+    "death-episode": {
+      "alive-confirmed": "Bloodletting",
+      "zombified": "Pretty Much Dead Already"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/ca/Season_two_shawn_greene.png/revision/latest/scale-to-width-down/350?cb=20130727230849"
+  },
+  {
+    "id": 41,
+    "name": "Arnold Greene",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+      "zombified": "Chupacabra"
+    },
+    "last-appearance": {
+      "corpse": "Nebraska"
+    },
+    "death-episode": {
+      "zombified": "Pretty Much Dead Already"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/73/Season_two_arnold_greene.png/revision/latest?cb=20131126233204"
+  },
+  {
+    "id": 42,
+    "name": "Josephine Greene",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": {
+      "photograph": "Bloodletting"
+    },
+    "last-appearance": {
+      "corpse": "Nebraska"
+    },
+    "death-episode": {
+      "alive-confirmed": "Judge, Jury, Executioner"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a2/Josephine_Greene.jpg/revision/latest?cb=20140815052820"
+  },
+  {
+    "id": 43,
+    "name": "Patricia",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Bloodletting",
+    "last-appearance": "Beside the Dying Fire",
+    "death-episode": "Beside the Dying Fire",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/e3/Season_two_patricia.png/revision/latest/scale-to-width-down/350?cb=20200507154319"
+  },
+  {
+    "id": 44,
+    "name": "Otis",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Bloodletting",
+    "last-appearance": {
+      "flashback": "Cherokee Rose"
+    },
+    "death-episode": "Save the Last One",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/73/Season_two_otis.png/revision/latest/scale-to-width-down/350?cb=20180901162537"
+  },
+  {
+    "id": 45,
+    "name": "Jimmy",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Bloodletting",
+    "last-appearance": {
+      "dream-corpse": "What Comes After"
+    },
+    "death-episode": "Beside the Dying Fire",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/34/Season_two_jimmy.png/revision/latest/scale-to-width-down/350?cb=20140922201046"
+  },
+  {
+    "id": 46,
+    "name": "Nate",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "Triggerfinger",
+    "last-appearance": "Triggerfinger",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/6a/Season_two_nate.png/revision/latest?cb=20131121040129"
+  },
+  {
+    "id": 47,
+    "name": "Randall Culver",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Triggerfinger",
+    "last-appearance": "Better Angels",
+    "death-episode": "Better Angels",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/55/Season_two_randall_culver.png/revision/latest/scale-to-width-down/350?cb=20180901162537"
+  },
+  {
+    "id": 48,
+    "name": "Sean",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Triggerfinger",
+    "last-appearance": "Triggerfinger",
+    "death-episode": "Triggerfinger",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/13/250px-Sean_-_Keedar_Whittle%282%29.jpg/revision/latest?cb=20140628004516"
+  },
+  {
+    "id": 49,
+    "name": "Tony",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Nebraska",
+    "last-appearance": "Triggerfinger",
+    "death-episode": "Nebraska",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/5a/TonyTVface.jpg/revision/latest/scale-to-width-down/350?cb=20120826004307"
+  },
+  {
+    "id": 50,
+    "name": "Dave",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Nebraska",
+    "last-appearance": "Triggerfinger",
+    "death-episode": "Nebraska",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/5a/DaveTVNe.png/revision/latest?cb=20130402175339"
+  },
+  {
+    "id": 51,
+    "name": "Terry",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+      "zombified": "Beside the Dying Fire"
+    },
+    "last-appearance": {
+      "hallucination-zombified": "What We Become"
+    },
+    "death-episode": {
+      "alive-confirmed": "Beside the Dying Fire",
+      "zombified-offscreen": "Live Bait"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/db/Season_four_terry.png/revision/latest?cb=20140210130554"
+  },
+  {
+    "id": 52,
+    "name": "Michonne Grimes",
+    "status": "Unknown",
+    "gender": "Female",
+    "first-appearance": "Beside the Dying Fire",
+    "last-appearance": {
+      "flashback": "Here's Negan"
+    },
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c1/Season_ten_michonne.png/revision/latest/scale-to-width-down/350?cb=20200317165737"
+  },
+  {
+    "id": 53,
+    "name": "Mike",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+      "zombified": "Beside the Dying Fire"
+    },
+    "last-appearance": {
+      "hallucination-zombified": "What We Become"
+    },
+    "death-episode": {
+      "alive-confirmed": "Beside the Dying Fire",
+      "zombified-offscreen": "Live Bait"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/90/Season_four_mike.png/revision/latest?cb=20140210205108"
+  },
+  {
+    "id": 54,
+    "name": "Andre Anthony",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+      "dream": "After"
+    },
+    "last-appearance": {
+      "dream": "After"
+    },
+    "death-episode": {
+      "alive-confirmed": "Claimed"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/36/Season_four_michonne%27s_son.png/revision/latest?cb=20140210205108"
+  },
+  {
+    "id": 55,
+    "name": "Axel",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Seed",
+    "last-appearance": "Home",
+    "death-episode": "Home",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/9d/Season_three_axel.png/revision/latest/scale-to-width-down/350?cb=20210825100235"
+  },
+  {
+    "id": 56,
+    "name": "Oscar",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Seed",
+    "last-appearance": {
+      "dream-corpse": "What Comes After"
+    },
+    "death-episode": "Made to Suffer",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c6/Season_three_oscar.png/revision/latest/scale-to-width-down/350?cb=20210309220454"
+  },
+  {
+    "id": 57,
+    "name": "Andrew",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Seed",
+    "last-appearance": "Killer Within",
+    "death-episode": "Killer Within",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/b7/Season_three_andrew.png/revision/latest?cb=20210808114128"
+  },
+  {
+    "id": 58,
+    "name": "Tomas",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Seed",
+    "last-appearance": "Sick",
+    "death-episode": "Sick",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/8d/Season_three_tomas.png/revision/latest/scale-to-width-down/350?cb=20210227042140"
+  },
+  {
+    "id": 59,
+    "name": "Big Tiny",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Seed",
+    "last-appearance": "Sick",
+    "death-episode": "Sick",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/15/Season_three_big_tiny.png/revision/latest/scale-to-width-down/350?cb=20160320205206"
+  },
+  {
+    "id": 60,
+    "name": "Welles",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Walk With Me",
+    "last-appearance": {
+      "zombified": "Made to Suffer"
+    },
+    "death-episode": {
+      "alive-offscreen": "Walk With Me",
+      "zombified-offscreen": "Live Bait"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/d6/Welles_S3_Crop.png/revision/latest/scale-to-width-down/350?cb=20141011213931"
+  },
+  {
+    "id": 61,
+    "name": "Brady",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Walk With Me",
+    "last-appearance": {
+      "flashback-corpse": "Live Bait"
+    },
+    "death-episode": "Walk With Me",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c6/Brad.PNG/revision/latest/scale-to-width-down/350?cb=20210808062452"
+  },
+  {
+    "id": 62,
+    "name": "Wilson",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Walk With Me",
+    "last-appearance": {
+      "flashback-corpse": "Live Bait"
+    },
+    "death-episode": "Walk With Me",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/14/Wilson.JPG/revision/latest?cb=20121207203620"
+  },
+  {
+    "id": 63,
+    "name": "Franklin",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Walk With Me",
+    "last-appearance": "Walk With Me",
+    "death-episode": "Walk With Me",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f6/Franklinhelicopter.jpg/revision/latest/scale-to-width-down/350?cb=20130724194755"
+  },
+  {
+    "id": 64,
+    "name": "Jeanette",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Infected",
+    "last-appearance": "Too Far Gone",
+    "death-episode": {
+      "offscreen": "Inmates"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/11/Season_four_jeanette.png/revision/latest/scale-to-width-down/350?cb=20220808135708"
+  },
+  {
+    "id": 65,
+    "name": "Martinez",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Walk With Me",
+    "last-appearance": {
+      "flashback": "Dead Weight"
+    },
+    "death-episode": {
+      "flashback": "Dead Weight"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c6/Season_four_martinez.png/revision/latest/scale-to-width-down/350?cb=20191119034029"
+  },
+  {
+    "id": 66,
+    "name": "Shumpert",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Walk With Me",
+    "last-appearance": {
+      "flashback": "Live Bait"
+    },
+    "death-episode": {
+      "confirmed": "Dead Weight"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/11/ShupertWttT.png/revision/latest?cb=20130406201157"
+  },
+  {
+    "id": 67,
+    "name": "Mr. Jacobson",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Killer Within",
+    "last-appearance": {
+      "zombified": "Internment"
+    },
+    "death-episode": "Internment",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/8c/Extra41_%28The_Suicide_King%29.png/revision/latest/scale-to-width-down/350?cb=20200229171959"
+  },
+  {
+    "id": 68,
+    "name": "Karen",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "The Suicide King",
+    "last-appearance": {
+      "flashback-corpse": "Consumed" 
+    },
+    "death-episode": "Infected",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/6a/Season_four_karen.png/revision/latest/scale-to-width-down/350?cb=20210807100206"
+  },
+  {
+    "id": 69,
+    "name": "Eryn",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Welcome to the Tombs",
+    "last-appearance": "30 Days Without An Accident",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7c/Eryn-Crop.PNG/revision/latest/scale-to-width-down/350?cb=20140929003747"
+  },
+  {
+    "id": 70,
+    "name": "Owen",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Hounded",
+    "last-appearance": "Infected",
+    "death-episode": "Infected",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/60/Season_four_owen.png/revision/latest?cb=20140507052819"
+  },
+  {
+    "id": 71,
+    "name": "Greg",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "30 Days Without An Accident",
+    "last-appearance": "Infected",
+    "death-episode": "Infected",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f8/Extra1a_%28Infected%29.png/revision/latest?cb=20140112193852"
+  },
+  {
+    "id": 72,
+    "name": "Ms. McLeod",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Made to Suffer",
+    "last-appearance": "Welcome to the Tombs",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/68/Ms._McLeod_%28Welcome_to_the_Tombs%29.png/revision/latest?cb=20200229165506"
+  },
+  {
+    "id": 73,
+    "name": "Milton Mamet",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Walk With Me",
+    "last-appearance": "Welcome to the Tombs",
+    "death-episode": "Welcome to the Tombs",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/30/MiltonAotD.png/revision/latest/scale-to-width-down/350?cb=20130311184403"
+  },
+  {
+    "id": 74,
+    "name": "Rowan",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Walk With Me",
+    "last-appearance": "Walk With Me",
+    "death-episode": {
+      "offscreen": "Welcome to the Tombs"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/84/Rowan3x03.jpg/revision/latest/scale-to-width-down/350?cb=20130304162404"
+  },
+  {
+    "id": 75,
+    "name": "Dr. Stevens",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Walk With Me",
+    "last-appearance": "Made to Suffer",
+    "death-episode": {
+      "offscreen": "Welcome to the Tombs"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/10/Season_three_dr_stevens.png/revision/latest/scale-to-width-down/350?cb=20210921232744"
+  },
+  {
+    "id": 76,
+    "name": "Eileen",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Walk With Me",
+    "last-appearance": "The Suicide King",
+    "death-episode": {
+      "offscreen": "Welcome to the Tombs"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/24/Eileen_%28Walk_With_Me%29.jpg/revision/latest?cb=20181114153948"
+  },
+  {
+    "id": 77,
+    "name": "Noah",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "I Ain't a Judas",
+    "last-appearance": "I Ain't a Judas",
+    "death-episode": {
+      "offscreen": "Welcome to the Tombs"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4f/Noah_%28I_Ain%27t_a_Judas%29.png/revision/latest?cb=20191211023024"
+  },
+  {
+    "id": 78,
+    "name": "Paul",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Suicide King",
+    "last-appearance": {
+      "flashback-corpse": "Live Bait"
+    },
+    "death-episode": "Welcome to the Tombs",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/2b/PaulWttT.png/revision/latest?cb=20130406201519"
+  },
+  {
+    "id": 79,
+    "name": "Jody",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Welcome to the Tombs",
+    "last-appearance": "Welcome to the Tombs",
+    "death-episode": "Welcome to the Tombs",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/54/Jody_%28Welcome_to_the_Tombs%29.png/revision/latest?cb=20191113040623"
+  },
+  {
+    "id": 80,
+    "name": "Haley",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Hounded",
+    "last-appearance": "The Suicide King",
+    "death-episode": "The Suicide King",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/13/HaleyCrop.PNG/revision/latest/scale-to-width-down/350?cb=20140416062206"
+  },
+  {
+    "id": 81,
+    "name": "Warren",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Made to Suffer",
+    "last-appearance": "Made to Suffer",
+    "death-episode": "Made to Suffer",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0e/WarrenUpdate.PNG/revision/latest?cb=20140529034300"
+  },
+  {
+    "id": 82,
+    "name": "Gargulio",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Hounded",
+    "last-appearance": "Hounded",
+    "death-episode": "Hounded",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/74/Season_three_gargulio.png/revision/latest/scale-to-width-down/350?cb=20191029034336"
+  },
+  {
+    "id": 83,
+    "name": "Crowley",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Walk With Me",
+    "last-appearance": "Hounded",
+    "death-episode": "Hounded",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/08/CrowleyS3Hounded.jpg/revision/latest/scale-to-width-down/350?cb=20130804201254"
+  },
+  {
+    "id": 84,
+    "name": "Tim",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Walk With Me",
+    "last-appearance": "Hounded",
+    "death-episode": "Hounded",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/40/Season_three_tim.jpg/revision/latest/scale-to-width-down/350?cb=20131011162239"
+  },
+  {
+    "id": 85,
+    "name": "Philip 'The Governor' Blake",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Walk With Me",
+    "last-appearance": {
+      "hallucination": "What Happened and What's Going On"
+    },
+    "death-episode": "Too Far Gone",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7a/Season_four_philip_blake.png/revision/latest/scale-to-width-down/350?cb=20191119034041"
+  },
+  {
+    "id": 86,
+    "name": "Penny Blake",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": {
+      "photograph": "Walk With Me"
+    },
+    "last-appearance": {
+      "photograph": "Live Bait"
+    },
+    "death-episode": {
+      "alive-confirmed": "Say the Word",
+      "zombified": "Made to Suffer"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a9/Season_three_penny_blake.png/revision/latest?cb=20190413163851"
+  },
+  {
+    "id": 87,
+    "name": "Mrs. Blake",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": {
+      "photograph": "Walk With Me"
+    },
+    "last-appearance": {
+      "photograph": "Live Bait"
+    },
+    "death-episode": {
+      "confirmed": "Killer Within"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ed/Season_three_mrs_blake.png/revision/latest?cb=20190124054157"
+  },
+  {
+    "id": 88,
+    "name": "Mrs. Foster",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Walk With Me",
+    "last-appearance": "Say the Word",
+    "death-episode": {
+      "offscreen": "Welcome to the Tombs"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0a/Season_three_mrs_foster.png/revision/latest?cb=20200429025804"
+  },
+  {
+    "id": 89,
+    "name": "Richard Foster",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Walk With Me",
+    "last-appearance": "The Suicide King",
+    "death-episode": "The Suicide King",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/40/Season_three_richard_foster.png/revision/latest?cb=20181114183438"
+  },
+  {
+    "id": 90,
+    "name": "Mrs. Richards",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Walk With Me",
+    "last-appearance": "Internment",
+    "death-episode": {
+      "offscreen": "Too Far Gone"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0d/Extra4_%28Welcome_to_the_Tombs%29.png/revision/latest?cb=20200229165502"
+  },
+  {
+    "id": 91,
+    "name": "Mr. Richards",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Made to Suffer",
+    "last-appearance": "Infected",
+    "death-episode": "Infected",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/3b/Extra40_%28The_Suicide_King%29.png/revision/latest?cb=20130214053542"
+  },
+  {
+    "id": 92,
+    "name": "Betty Coleman",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": {
+      "photograph": "When the Dead Come Knocking"
+    },
+    "last-appearance": "The Suicide King",
+    "death-episode": {
+      "offscreen": "Welcome to the Tombs"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/3a/Debi_Hett_Kimsey_2_%28TSK%29.png/revision/latest?cb=20200602000005"
+  },
+  {
+    "id": 93,
+    "name": "Emily Coleman",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Say the Word",
+    "last-appearance": {
+      "photograph": "When the Dead Come Knocking"
+    },
+    "death-episode": {
+      "offscreen": "Welcome to the Tombs"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/cb/Emily_Coleman_%28Say_the_Word%29.png/revision/latest?cb=20200530172916"
+  },
+  {
+    "id": 94,
+    "name": "Michael Coleman",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "When the Dead Come Knocking",
+    "last-appearance": "When the Dead Come Knocking",
+    "death-episode": "When the Dead Come Knocking",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c4/Michael_Coleman_Main_Pic.JPG/revision/latest/scale-to-width-down/350?cb=20150602203753"
+  },
+  {
+    "id": 95,
+    "name": "Sasha Williams",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Made to Suffer",
+    "last-appearance": {
+      "hallucination": "What We Become"
+    },
+    "death-episode": "The First Day of the Rest of Your Life",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1c/Season_seven_sasha_williams.png/revision/latest/scale-to-width-down/350?cb=20170313234127"
+  },
+  {
+    "id": 96,
+    "name": "Tyreese Williams",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Made to Suffer",
+    "last-appearance": {
+      "dream-corpse": "What We Become"
+    },
+    "death-episode": "What Happened and What's Going On",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f0/Season_five_tyreese.png/revision/latest/scale-to-width-down/350?cb=20141203170026"
+  },
+  {
+    "id": 97,
+    "name": "Allen",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Made to Suffer",
+    "last-appearance": {
+      "flashback-corpse": "Live Bait"
+    },
+    "death-episode": "Welcome to the Tombs",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/46/AllenWttT.png/revision/latest?cb=20130406201301"
+  },
+  {
+    "id": 98,
+    "name": "Ben",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Made to Suffer",
+    "last-appearance": "This Sorrowful Life",
+    "death-episode": "This Sorrowful Life",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/af/BenCrop.PNG/revision/latest/scale-to-width-down/350?cb=20140926105824"
+  },
+  {
+    "id": 99,
+    "name": "Donna",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Made to Suffer",
+    "last-appearance": {
+      "corpse": "The Suicide King"
+    },
+    "death-episode": "Made to Suffer",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4f/Season_three_donna.png/revision/latest?cb=20140112195949"
+  },
+  {
+    "id": 100,
+    "name": "Luke",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "30 Days Without An Accident",
+    "last-appearance": "Too Far Gone",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4d/Luke_4x01.png/revision/latest?cb=20220805233546"
+  },
+  {
+    "id": 101,
+    "name": "Molly",
+    "status": "Unknown",
+    "gender": "Female",
+    "first-appearance": "30 Days Without An Accident",
+    "last-appearance": "Too Far Gone",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/69/Season_four_molly_%282%29.png/revision/latest/scale-to-width-down/350?cb=20220813165603"
+  },
+  {
+    "id": 102,
+    "name": "Bob Stookey",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "30 Days Without An Accident",
+    "last-appearance": {
+      "flashback": "The Day Will Come When You Won't Be"
+    },
+    "death-episode": "Four Walls and a Roof",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a9/Season_five_bob_stookey.png/revision/latest?cb=20220901225439"
+  },
+  {
+    "id": 103,
+    "name": "Julio",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Internment",
+    "last-appearance": "Too Far Gone",
+    "death-episode": "Too Far Gone",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/15/JuliocropTFG.png/revision/latest/scale-to-width-down/333?cb=20131203221731"
+  },
+  {
+    "id": 104,
+    "name": "Henry",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "30 Days Without An Accident",
+    "last-appearance": {
+      "flashback": "A"
+    },
+    "death-episode": "Internment",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/91/Season_four_henry.png/revision/latest?cb=20140401020038"
+  },
+  {
+    "id": 105,
+    "name": "Noris",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Infected",
+    "last-appearance": "Internment",
+    "death-episode": "Internment",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/15/Father_%28Internment%29.png/revision/latest?cb=20191224130805"
+  },
+  {
+    "id": 106,
+    "name": "Dr. Caleb Subramanian",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "30 Days Without An Accident",
+    "last-appearance": "Internment",
+    "death-episode": "Internment",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f0/Season_four_dr_subramanian.png/revision/latest/scale-to-width-down/350?cb=20210302044055"
+  },
+  {
+    "id": 107,
+    "name": "David",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "30 Days Without An Accident",
+    "last-appearance": {
+      "flashback-corpse": "Consumed"
+    },
+    "death-episode": "Infected",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/28/Season_four_david.png/revision/latest?cb=20210310021625"
+  },
+  {
+    "id": 108,
+    "name": "Charlie",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+      "zombified": "Infected"
+    },
+    "last-appearance": "Infected",
+    "death-episode": "Infected",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/55/Season_four_charlie.png/revision/latest/scale-to-width-down/350?cb=20180424210504"
+  },
+  {
+    "id": 109,
+    "name": "Patrick",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "30 Days Without An Accident",
+    "last-appearance": {
+      "flashback": "A"
+    },
+    "death-episode": {
+      "alive": "30 Days Without An Accident",
+      "zombified": "Infected"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7f/A_Patrick_is_not_ashamed.png/revision/latest/scale-to-width-down/350?cb=20150322145843"
+  },
+  {
+    "id": 110,
+    "name": "Zach",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "30 Days Without An Accident",
+    "last-appearance": {
+      "flashback": "A"
+    },
+    "death-episode": "30 Days Without An Accident",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/cd/Season_four_zach.png/revision/latest/scale-to-width-down/350?cb=20210302041145"
+  },
+  {
+    "id": 111,
+    "name": "Lizzie Samuels",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "30 Days Without An Accident",
+    "last-appearance": {
+      "hallucination-photograph": "Ghosts"
+    },
+    "death-episode": "The Grove",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0f/Season_four_lizzie_samuels_%282%29.png/revision/latest/scale-to-width-down/350?cb=20210302044148"
+  },
+  {
+    "id": 112,
+    "name": "Mika Samuels",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "30 Days Without An Accident",
+    "last-appearance": {
+      "hallucination-photograph": "Ghosts"
+    },
+    "death-episode": "The Grove",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c6/Season_four_mika_samuels_%282%29.png/revision/latest/scale-to-width-down/350?cb=20210302044538"
+  },
+  {
+    "id": 113,
+    "name": "Ryan Samuels",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "30 Days Without An Accident",
+    "last-appearance": "Infected",
+    "death-episode": "Infected",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7c/Season_four_ryan_samuels.png/revision/latest/scale-to-width-down/350?cb=20210313145926"
+  },
+  {
+    "id": 114,
+    "name": "Sam",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Indifference",
+    "last-appearance": "No Sanctuary",
+    "death-episode": "No Sanctuary",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/75/Season_five_sam.png/revision/latest?cb=20210728023435"
+  },
+  {
+    "id": 115,
+    "name": "Christopher",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Inmates",
+    "last-appearance": "Inmates",
+    "death-episode": "Inmates",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/9e/Christopher_PP.JPG/revision/latest?cb=20140217123330"
+  },
+  {
+    "id": 116,
+    "name": "Clara",
+    "status": "Undead",
+    "gender": "Female",
+    "first-appearance": "30 Days Without An Accident",
+    "last-appearance": {
+      "zombified": "Inmates"
+    },
+    "death-episode": "30 Days Without An Accident",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/6a/Season_four_clara.png/revision/latest/scale-to-width-down/350?cb=20210226021901"
+  },
+  {
+    "id": 117,
+    "name": "Miss Wilhelm",
+    "status": "Unknown",
+    "gender": "Female",
+    "first-appearance": {
+      "photograph": "Live Bait"
+    },
+    "last-appearance": {
+      "photograph": "Live Bait"
+    },
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/2e/Season_four_wilhelm.png/revision/latest?cb=20180224213531"
+  },
+  {
+    "id": 118,
+    "name": "Tara Chambler",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": {
+      "flashback": "Live Bait"
+    },
+    "last-appearance": "The Calm Before",
+    "death-episode": "The Calm Before",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/63/Season_nine_tara_chambler_%282%29.png/revision/latest/scale-to-width-down/350?cb=20190318154153"
+  },
+  {
+    "id": 118,
+    "name": "Lilly Chambler",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": {
+      "flashback": "Live Bait"
+    },
+    "last-appearance": "Too Far Gone",
+    "death-episode": {
+      "offscreen": "Too Far Gone",
+      "confirmed": "Inmates"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/70/Season_four_lilly_chambler.png/revision/latest/scale-to-width-down/350?cb=20191119034038"
+  },
+  {
+    "id": 119,
+    "name": "Meghan Chambler",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": {
+      "flashback": "Live Bait"
+    },
+    "last-appearance": "Too Far Gone",
+    "death-episode": "Too Far Gone",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/94/Season_four_meghan_chambler.png/revision/latest/scale-to-width-down/350?cb=20140707163319"
+  },
+  {
+    "id": 120,
+    "name": "David Chambler",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+      "flashback": "Live Bait"
+    },
+    "last-appearance": {
+      "flashback": "Live Bait"
+    },
+    "death-episode": "Live Bait",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/6f/Season_four_david_chambler.png/revision/latest/scale-to-width-down/350?cb=20131120044437"
+  },
+  {
+    "id": 121,
+    "name": "Howard",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "Dead Weight",
+    "last-appearance": "Too Far Gone",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/72/Extra22_%28Dead_Weight%29.png/revision/latest/scale-to-width-down/350?cb=20180822180305"
+  },
+  {
+    "id": 122,
+    "name": "Alisha",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Dead Weight",
+    "last-appearance": {
+      "corpse": "Inmates"
+    },
+    "death-episode": "Too Far Gone",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1e/Season_four_alisha.png/revision/latest/scale-to-width-down/350?cb=20191119034019"
+  },
+  {
+    "id": 123,
+    "name": "Mitch Dolgen",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Dead Weight",
+    "last-appearance": {
+      "corpse": "Inmates"
+    },
+    "death-episode": "Too Far Gone",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/63/Season_four_mitch_dolgen.png/revision/latest?cb=20191119034038"
+  },
+  {
+    "id": 124,
+    "name": "Pete Dolgen",
+    "status": "Undead",
+    "gender": "Male",
+    "first-appearance": {
+      "flashback": "Dead Weight"
+    },
+    "last-appearance": {
+      "flashback": "Dead Weight"
+    },
+    "death-episode": {
+      "alive-flashback": "Dead Weight"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/11/Season_four_pete_dolgen.png/revision/latest/scale-to-width-down/350?cb=20191119034039"
+  },
+  {
+    "id": 125,
+    "name": "Eugene Porter",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Inmates",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/72/Season_eleven_eugene_porter.png/revision/latest/scale-to-width-down/350?cb=20220726013256"
+  },
+  {
+    "id": 126,
+    "name": "Rosita Espinosa",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "Inmates",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7f/Season_eleven_rosita_espinosa.png/revision/latest/scale-to-width-down/350?cb=20220228171840"
+  },
+  {
+    "id": 127,
+    "name": "Abraham Ford",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Inmates",
+    "last-appearance": {
+      "hallucination": "What We Become"
+    },
+    "death-episode": {
+      "offscreen": "Last Day on Earth",
+      "flashback": "The Day Will Come When You Won't Be"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ee/Season_six_abraham_ford.png/revision/latest/scale-to-width-down/350?cb=20210409010533"
+  },
+  {
+    "id": 127,
+    "name": "Ellen Ford",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": {
+      "flashback": "Self Help"
+    },
+    "last-appearance": {
+      "flashback": "Self Help"
+    },
+    "death-episode": {
+      "flashback": "Self Help"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/40/Season_five_ellen_ford.png/revision/latest/scale-to-width-down/350?cb=20141110211249"
+  },
+  {
+    "id": 128,
+    "name": "A.J. Ford",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+      "flashback": "Self Help"
+    },
+    "last-appearance": {
+      "flashback": "Self Help"
+    },
+    "death-episode": {
+      "flashback": "Self Help"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ec/AJ-Cropped.PNG/revision/latest/scale-to-width-down/350?cb=20141120050512"
+  },
+  {
+    "id": 129,
+    "name": "Becca Ford",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": {
+      "flashback": "Self Help"
+    },
+    "last-appearance": {
+      "flashback": "Self Help"
+    },
+    "death-episode": {
+      "flashback": "Self Help"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/87/Season_five_becca_ford.png/revision/latest?cb=20141120050351"
+  },
+  {
+    "id": 130,
+    "name": "Dan",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Alone",
+    "last-appearance": "A",
+    "death-episode": "A",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7f/Season_four_dan.png/revision/latest/scale-to-width-down/350?cb=20160930014823"
+  },
+  {
+    "id": 131,
+    "name": "Billy",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Alone",
+    "last-appearance": "A",
+    "death-episode": "A",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a8/Season_four_billy.png/revision/latest?cb=20140330164719"
+  },
+  {
+    "id": 132,
+    "name": " Harley",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+      "voice": "Claimed",
+      "physically": "Alone"
+    },
+    "last-appearance": "A",
+    "death-episode": "A",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/88/Harley_Crop.jpg/revision/latest?cb=20140327181940"
+  },
+  {
+    "id": 133,
+    "name": "Tony",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Claimed",
+    "last-appearance": "A",
+    "death-episode": "A",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ee/Season_four_tony.png/revision/latest?cb=20140401012449"
+  },
+  {
+    "id": 134,
+    "name": "Joe",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Claimed",
+    "last-appearance": "A",
+    "death-episode": "A",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/38/Us_Joe_OS.png/revision/latest/scale-to-width-down/350?cb=20140327013040"
+  },
+  {
+    "id": 135,
+    "name": "Len",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Claimed",
+    "last-appearance": "Us",
+    "death-episode": "Us",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/68/Season_four_len.png/revision/latest/scale-to-width-down/350?cb=20140330164719"
+  },
+  {
+    "id": 136,
+    "name": "Lou",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Claimed",
+    "last-appearance": "Claimed",
+    "death-episode": "Claimed",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/02/Season_four_lou.png/revision/latest?cb=20140226181423"
+  },
+  {
+    "id": 137,
+    "name": "Martin",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "No Sanctuary",
+    "last-appearance": {
+      "hallucination": "What Happened and What's Going On"
+    },
+    "death-episode": "Four Walls and a Roof",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/43/Season_five_martin.png/revision/latest?cb=20210728023003"
+  },
+  {
+    "id": 138,
+    "name": "Greg",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Strangers",
+    "last-appearance": "Four Walls and a Roof",
+    "death-episode": "Four Walls and a Roof",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/cf/Season_five_greg.png/revision/latest/scale-to-width-down/350?cb=20201206012614"
+  },
+  {
+    "id": 139,
+    "name": "Theresa",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Strangers",
+    "last-appearance": {
+      "flashback": "Forget"
+    },
+    "death-episode": "Four Walls and a Roof",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1c/TheresaFixed.PNG/revision/latest/scale-to-width-down/350?cb=20141030050658"
+  },
+  {
+    "id": 140,
+    "name": "Albert",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Strangers",
+    "last-appearance": "Four Walls and a Roof",
+    "death-episode": "Four Walls and a Roof",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4c/Season_five_albert.png/revision/latest/scale-to-width-down/350?cb=20210728022810"
+  },
+  {
+    "id": 141,
+    "name": "Mike",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Strangers",
+    "last-appearance": "Four Walls and a Roof",
+    "death-episode": "Four Walls and a Roof",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f0/Season_five_mike.png/revision/latest?cb=20210728022844"
+  },
+  {
+    "id": 142,
+    "name": "Gareth",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "A",
+    "last-appearance": {
+      "flashback-corpse": "What Happened and What's Going On"
+    },
+    "death-episode": "Four Walls and a Roof",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f7/Season_five_gareth.png/revision/latest/scale-to-width-down/333?cb=20180930211541"
+  },
+  {
+    "id": 143,
+    "name": "Mary",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Us",
+    "last-appearance": "No Sanctuary",
+    "death-episode": "No Sanctuary",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/5e/Season_five_mary.png/revision/latest?cb=20141024011347"
+  },
+  {
+    "id": 144,
+    "name": "Alex",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "A",
+    "last-appearance": {
+      "flashback-corpse": "No Sanctuary"
+    },
+    "death-episode": "A",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/89/Season_four_alex.png/revision/latest?cb=20140401020038"
   }
 ]
