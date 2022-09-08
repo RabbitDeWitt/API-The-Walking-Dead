@@ -212,7 +212,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a8/Season_two_dale_horvath.png/revision/latest?cb=20220111151126"
   },
   {
-    "id": 16,
+    "id": 17,
     "name": "Jacqui",
     "status": "Dead",
     "gender": "Female",
@@ -238,7 +238,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/18/Season_one_jim.png/revision/latest?cb=20220730223700"
   },
   {
-    "id": 18,
+    "id": 19,
     "name": "Carol Peletier",
     "status": "Alive",
     "gender": "Female",
@@ -248,7 +248,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/5f/Season_eleven_carol_peletier.png/revision/latest?cb=20220314151058"
   },
   {
-    "id": 19,
+    "id": 20,
     "name": "Sophia Peletier",
     "status": "Dead",
     "gender": "Female",
@@ -277,7 +277,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0a/Season_one_ed_peletier.png/revision/latest?cb=20210319033921"
   },
   {
-    "id": 21,
+    "id": 22,
     "name": "Daryl Dixon",
     "status": "Alive",
     "gender": "Male",
@@ -287,7 +287,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/85/Season_eleven_daryl_dixon.png/revision/latest?cb=20220404151444"
   },
   {
-    "id": 22,
+    "id": 23,
     "name": "Merle Dixon",
     "status": "Dead",
     "gender": "Male",
@@ -300,7 +300,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/87/Season_three_merle_dixon.png/revision/latest?cb=20210226033029"
   },
   {
-    "id": 23,
+    "id": 24,
     "name": "Andrea",
     "status": "Dead",
     "gender": "Female",
@@ -312,7 +312,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ec/Season_three_andrea.png/revision/latest?cb=20210226031328"
   },
   {
-    "id": 24,
+    "id": 25,
     "name": "Amy",
     "status": "Dead",
     "gender": "Female",
@@ -327,7 +327,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/9c/Season_one_amy.png/revision/latest?cb=20180905005113"
   },
   {
-    "id": 25,
+    "id": 26,
     "name": "Morales",
     "status": "Dead",
     "gender": "Male",
@@ -337,7 +337,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/38/Season_eight_morales.png/revision/latest?cb=20180905005121"
   },
   {
-    "id": 26,
+    "id": 27,
     "name": "Miranda",
     "status": "Dead",
     "gender": "Female",
@@ -351,7 +351,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/56/Season_one_miranda_morales.png/revision/latest?cb=20200412011132"
   },
   {
-    "id": 27,
+    "id": 28,
     "name": "Louis Morales",
     "status": "Dead",
     "gender": "Male",
@@ -363,7 +363,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/b0/Louis_Morales_S1.png/revision/latest?cb=20200506020129"
   },
   {
-    "id": 28,
+    "id": 29,
     "name": "Eliza Morales",
     "status": "Dead",
     "gender": "Female",
@@ -375,7 +375,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/73/Eliza_Morales_S1.png/revision/latest?cb=20200506020243"
   },
   {
-    "id": 29,
+    "id": 30,
     "name": "Guilhermo",
     "status": "Dead",
     "gender": "Male",
@@ -385,7 +385,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/2c/Season_one_guillermo.png/revision/latest?cb=20191231050848"
   },
   {
-    "id": 30,
+    "id": 31,
     "name": "Jorge",
     "status": "Dead",
     "gender": "Male",
@@ -395,7 +395,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/82/Season_one_jorge.png/revision/latest?cb=20161211003524"
   },
   {
-    "id": 31,
+    "id": 32,
     "name": "Mr. Gilbert",
     "status": "Dead",
     "gender": "Male",
@@ -405,7 +405,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1e/Mr_Gilbert_Vatos.png/revision/latest?cb=20131130152055"
   },
   {
-    "id": 32,
+    "id": 33,
     "name": "Felipe",
     "status": "Dead",
     "gender": "Male",
@@ -415,7 +415,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f7/Felipe_Vatos.png/revision/latest?cb=20131130151659"
   },
   {
-    "id": 33,
+    "id": 34,
     "name": "Miguel",
     "status": "Dead",
     "gender": "Male",
@@ -425,7 +425,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/82/Miguel_%28Vatos%29.png/revision/latest?cb=20121207173012"
   },
   {
-    "id": 34,
+    "id": 35,
     "name": "Dr. Edwin Jenner",
     "status": "Dead",
     "gender": "Male",
@@ -435,7 +435,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/26/Season_one_edwin_jenner.png/revision/latest?cb=20210921234158"
   },
   {
-    "id": 35,
+    "id": 36,
     "name": "Dr. Candace Jenner",
     "status": "Dead",
     "gender": "Female",
@@ -452,7 +452,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/19/Season_one_candace_jenner.png/revision/latest?cb=20210606013924"
   },
   {
-    "id": 36,
+    "id": 37,
     "name": "Maggie Rhee",
     "status": "Alive",
     "gender": "Female",
@@ -462,7 +462,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/ad/Season_eleven_maggie_rhee.png/revision/latest/scale-to-width-down/350?cb=20220404151355"
   },
   {
-    "id": 37,
+    "id": 38,
     "name": "Beth Greene",
     "status": "Dead",
     "gender": "Female",
@@ -474,7 +474,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/2e/Season_five_beth_greene_%281%29.png/revision/latest/scale-to-width-down/350?cb=20210830064555"
   },
   {
-    "id": 38,
+    "id": 39,
     "name": "Hershel Greene",
     "status": "Dead",
     "gender": "Male",
@@ -489,7 +489,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ec/Season_four_hershel_greene.png/revision/latest/scale-to-width-down/350?cb=20210605160134"
   },
   {
-    "id": 39,
+    "id": 40,
     "name": "Annette Greene",
     "status": "Dead",
     "gender": "Female",
@@ -506,7 +506,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/bd/Season_two_annette_greene_alive.png/revision/latest/scale-to-width-down/350?cb=20130727231014"
   },
   {
-    "id": 40,
+    "id": 41,
     "name": "Shawn Greene",
     "status": "Dead",
     "gender": "Male",
@@ -523,7 +523,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/ca/Season_two_shawn_greene.png/revision/latest/scale-to-width-down/350?cb=20130727230849"
   },
   {
-    "id": 41,
+    "id": 42,
     "name": "Arnold Greene",
     "status": "Dead",
     "gender": "Male",
@@ -539,7 +539,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/73/Season_two_arnold_greene.png/revision/latest?cb=20131126233204"
   },
   {
-    "id": 42,
+    "id": 43,
     "name": "Josephine Greene",
     "status": "Dead",
     "gender": "Female",
@@ -555,7 +555,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a2/Josephine_Greene.jpg/revision/latest?cb=20140815052820"
   },
   {
-    "id": 43,
+    "id": 44,
     "name": "Patricia",
     "status": "Dead",
     "gender": "Female",
@@ -565,7 +565,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/e3/Season_two_patricia.png/revision/latest/scale-to-width-down/350?cb=20200507154319"
   },
   {
-    "id": 44,
+    "id": 45,
     "name": "Otis",
     "status": "Dead",
     "gender": "Male",
@@ -577,7 +577,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/73/Season_two_otis.png/revision/latest/scale-to-width-down/350?cb=20180901162537"
   },
   {
-    "id": 45,
+    "id": 46,
     "name": "Jimmy",
     "status": "Dead",
     "gender": "Male",
@@ -589,7 +589,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/34/Season_two_jimmy.png/revision/latest/scale-to-width-down/350?cb=20140922201046"
   },
   {
-    "id": 46,
+    "id": 47,
     "name": "Nate",
     "status": "Unknown",
     "gender": "Male",
@@ -599,7 +599,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/6a/Season_two_nate.png/revision/latest?cb=20131121040129"
   },
   {
-    "id": 47,
+    "id": 48,
     "name": "Randall Culver",
     "status": "Dead",
     "gender": "Male",
@@ -609,7 +609,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/55/Season_two_randall_culver.png/revision/latest/scale-to-width-down/350?cb=20180901162537"
   },
   {
-    "id": 48,
+    "id": 49,
     "name": "Sean",
     "status": "Dead",
     "gender": "Male",
@@ -619,7 +619,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/13/250px-Sean_-_Keedar_Whittle%282%29.jpg/revision/latest?cb=20140628004516"
   },
   {
-    "id": 49,
+    "id": 50,
     "name": "Tony",
     "status": "Dead",
     "gender": "Male",
@@ -629,7 +629,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/5a/TonyTVface.jpg/revision/latest/scale-to-width-down/350?cb=20120826004307"
   },
   {
-    "id": 50,
+    "id": 51,
     "name": "Dave",
     "status": "Dead",
     "gender": "Male",
@@ -639,7 +639,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/5a/DaveTVNe.png/revision/latest?cb=20130402175339"
   },
   {
-    "id": 51,
+    "id": 52,
     "name": "Terry",
     "status": "Dead",
     "gender": "Male",
@@ -656,7 +656,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/db/Season_four_terry.png/revision/latest?cb=20140210130554"
   },
   {
-    "id": 52,
+    "id": 53,
     "name": "Michonne Grimes",
     "status": "Unknown",
     "gender": "Female",
@@ -668,7 +668,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c1/Season_ten_michonne.png/revision/latest/scale-to-width-down/350?cb=20200317165737"
   },
   {
-    "id": 53,
+    "id": 54,
     "name": "Mike",
     "status": "Dead",
     "gender": "Male",
@@ -685,7 +685,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/90/Season_four_mike.png/revision/latest?cb=20140210205108"
   },
   {
-    "id": 54,
+    "id": 55,
     "name": "Andre Anthony",
     "status": "Dead",
     "gender": "Male",
@@ -701,7 +701,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/36/Season_four_michonne%27s_son.png/revision/latest?cb=20140210205108"
   },
   {
-    "id": 55,
+    "id": 56,
     "name": "Axel",
     "status": "Dead",
     "gender": "Male",
@@ -711,7 +711,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/9d/Season_three_axel.png/revision/latest/scale-to-width-down/350?cb=20210825100235"
   },
   {
-    "id": 56,
+    "id": 57,
     "name": "Oscar",
     "status": "Dead",
     "gender": "Male",
@@ -723,7 +723,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c6/Season_three_oscar.png/revision/latest/scale-to-width-down/350?cb=20210309220454"
   },
   {
-    "id": 57,
+    "id": 58,
     "name": "Andrew",
     "status": "Dead",
     "gender": "Male",
@@ -733,7 +733,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/b7/Season_three_andrew.png/revision/latest?cb=20210808114128"
   },
   {
-    "id": 58,
+    "id": 59,
     "name": "Tomas",
     "status": "Dead",
     "gender": "Male",
@@ -743,7 +743,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/8d/Season_three_tomas.png/revision/latest/scale-to-width-down/350?cb=20210227042140"
   },
   {
-    "id": 59,
+    "id": 60,
     "name": "Big Tiny",
     "status": "Dead",
     "gender": "Male",
@@ -753,7 +753,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/15/Season_three_big_tiny.png/revision/latest/scale-to-width-down/350?cb=20160320205206"
   },
   {
-    "id": 60,
+    "id": 61,
     "name": "Welles",
     "status": "Dead",
     "gender": "Male",
@@ -768,7 +768,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/d6/Welles_S3_Crop.png/revision/latest/scale-to-width-down/350?cb=20141011213931"
   },
   {
-    "id": 61,
+    "id": 62,
     "name": "Brady",
     "status": "Dead",
     "gender": "Male",
@@ -780,7 +780,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c6/Brad.PNG/revision/latest/scale-to-width-down/350?cb=20210808062452"
   },
   {
-    "id": 62,
+    "id": 63,
     "name": "Wilson",
     "status": "Dead",
     "gender": "Male",
@@ -792,7 +792,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/14/Wilson.JPG/revision/latest?cb=20121207203620"
   },
   {
-    "id": 63,
+    "id": 64,
     "name": "Franklin",
     "status": "Dead",
     "gender": "Male",
@@ -802,7 +802,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f6/Franklinhelicopter.jpg/revision/latest/scale-to-width-down/350?cb=20130724194755"
   },
   {
-    "id": 64,
+    "id": 65,
     "name": "Jeanette",
     "status": "Dead",
     "gender": "Female",
@@ -814,7 +814,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/11/Season_four_jeanette.png/revision/latest/scale-to-width-down/350?cb=20220808135708"
   },
   {
-    "id": 65,
+    "id": 66,
     "name": "Martinez",
     "status": "Dead",
     "gender": "Male",
@@ -828,7 +828,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c6/Season_four_martinez.png/revision/latest/scale-to-width-down/350?cb=20191119034029"
   },
   {
-    "id": 66,
+    "id": 67,
     "name": "Shumpert",
     "status": "Dead",
     "gender": "Male",
@@ -842,7 +842,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/11/ShupertWttT.png/revision/latest?cb=20130406201157"
   },
   {
-    "id": 67,
+    "id": 68,
     "name": "Mr. Jacobson",
     "status": "Dead",
     "gender": "Male",
@@ -854,7 +854,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/8c/Extra41_%28The_Suicide_King%29.png/revision/latest/scale-to-width-down/350?cb=20200229171959"
   },
   {
-    "id": 68,
+    "id": 69,
     "name": "Karen",
     "status": "Dead",
     "gender": "Female",
@@ -866,7 +866,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/6a/Season_four_karen.png/revision/latest/scale-to-width-down/350?cb=20210807100206"
   },
   {
-    "id": 69,
+    "id": 70,
     "name": "Eryn",
     "status": "Dead",
     "gender": "Female",
@@ -876,7 +876,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7c/Eryn-Crop.PNG/revision/latest/scale-to-width-down/350?cb=20140929003747"
   },
   {
-    "id": 70,
+    "id": 71,
     "name": "Owen",
     "status": "Dead",
     "gender": "Male",
@@ -886,7 +886,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/60/Season_four_owen.png/revision/latest?cb=20140507052819"
   },
   {
-    "id": 71,
+    "id": 72,
     "name": "Greg",
     "status": "Dead",
     "gender": "Male",
@@ -896,7 +896,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f8/Extra1a_%28Infected%29.png/revision/latest?cb=20140112193852"
   },
   {
-    "id": 72,
+    "id": 73,
     "name": "Ms. McLeod",
     "status": "Dead",
     "gender": "Female",
@@ -906,7 +906,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/68/Ms._McLeod_%28Welcome_to_the_Tombs%29.png/revision/latest?cb=20200229165506"
   },
   {
-    "id": 73,
+    "id": 74,
     "name": "Milton Mamet",
     "status": "Dead",
     "gender": "Male",
@@ -916,7 +916,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/30/MiltonAotD.png/revision/latest/scale-to-width-down/350?cb=20130311184403"
   },
   {
-    "id": 74,
+    "id": 75,
     "name": "Rowan",
     "status": "Dead",
     "gender": "Female",
@@ -928,7 +928,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/84/Rowan3x03.jpg/revision/latest/scale-to-width-down/350?cb=20130304162404"
   },
   {
-    "id": 75,
+    "id": 76,
     "name": "Dr. Stevens",
     "status": "Dead",
     "gender": "Female",
@@ -940,7 +940,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/10/Season_three_dr_stevens.png/revision/latest/scale-to-width-down/350?cb=20210921232744"
   },
   {
-    "id": 76,
+    "id": 77,
     "name": "Eileen",
     "status": "Dead",
     "gender": "Female",
@@ -952,7 +952,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/24/Eileen_%28Walk_With_Me%29.jpg/revision/latest?cb=20181114153948"
   },
   {
-    "id": 77,
+    "id": 78,
     "name": "Noah",
     "status": "Dead",
     "gender": "Male",
@@ -964,7 +964,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4f/Noah_%28I_Ain%27t_a_Judas%29.png/revision/latest?cb=20191211023024"
   },
   {
-    "id": 78,
+    "id": 79,
     "name": "Paul",
     "status": "Dead",
     "gender": "Male",
@@ -976,7 +976,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/2b/PaulWttT.png/revision/latest?cb=20130406201519"
   },
   {
-    "id": 79,
+    "id": 80,
     "name": "Jody",
     "status": "Dead",
     "gender": "Male",
@@ -986,7 +986,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/54/Jody_%28Welcome_to_the_Tombs%29.png/revision/latest?cb=20191113040623"
   },
   {
-    "id": 80,
+    "id": 81,
     "name": "Haley",
     "status": "Dead",
     "gender": "Female",
@@ -996,7 +996,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/13/HaleyCrop.PNG/revision/latest/scale-to-width-down/350?cb=20140416062206"
   },
   {
-    "id": 81,
+    "id": 82,
     "name": "Warren",
     "status": "Dead",
     "gender": "Male",
@@ -1006,7 +1006,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0e/WarrenUpdate.PNG/revision/latest?cb=20140529034300"
   },
   {
-    "id": 82,
+    "id": 83,
     "name": "Gargulio",
     "status": "Dead",
     "gender": "Male",
@@ -1016,7 +1016,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/74/Season_three_gargulio.png/revision/latest/scale-to-width-down/350?cb=20191029034336"
   },
   {
-    "id": 83,
+    "id": 84,
     "name": "Crowley",
     "status": "Dead",
     "gender": "Male",
@@ -1026,7 +1026,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/08/CrowleyS3Hounded.jpg/revision/latest/scale-to-width-down/350?cb=20130804201254"
   },
   {
-    "id": 84,
+    "id": 85,
     "name": "Tim",
     "status": "Dead",
     "gender": "Male",
@@ -1036,7 +1036,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/40/Season_three_tim.jpg/revision/latest/scale-to-width-down/350?cb=20131011162239"
   },
   {
-    "id": 85,
+    "id": 86,
     "name": "Philip 'The Governor' Blake",
     "status": "Dead",
     "gender": "Male",
@@ -1048,7 +1048,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7a/Season_four_philip_blake.png/revision/latest/scale-to-width-down/350?cb=20191119034041"
   },
   {
-    "id": 86,
+    "id": 87,
     "name": "Penny Blake",
     "status": "Dead",
     "gender": "Female",
@@ -1065,7 +1065,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a9/Season_three_penny_blake.png/revision/latest?cb=20190413163851"
   },
   {
-    "id": 87,
+    "id": 88,
     "name": "Mrs. Blake",
     "status": "Dead",
     "gender": "Female",
@@ -1081,7 +1081,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ed/Season_three_mrs_blake.png/revision/latest?cb=20190124054157"
   },
   {
-    "id": 88,
+    "id": 89,
     "name": "Mrs. Foster",
     "status": "Dead",
     "gender": "Female",
@@ -1093,7 +1093,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0a/Season_three_mrs_foster.png/revision/latest?cb=20200429025804"
   },
   {
-    "id": 89,
+    "id": 90,
     "name": "Richard Foster",
     "status": "Dead",
     "gender": "Male",
@@ -1103,7 +1103,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/40/Season_three_richard_foster.png/revision/latest?cb=20181114183438"
   },
   {
-    "id": 90,
+    "id": 91,
     "name": "Mrs. Richards",
     "status": "Dead",
     "gender": "Female",
@@ -1115,7 +1115,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0d/Extra4_%28Welcome_to_the_Tombs%29.png/revision/latest?cb=20200229165502"
   },
   {
-    "id": 91,
+    "id": 92,
     "name": "Mr. Richards",
     "status": "Dead",
     "gender": "Male",
@@ -1125,7 +1125,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/3b/Extra40_%28The_Suicide_King%29.png/revision/latest?cb=20130214053542"
   },
   {
-    "id": 92,
+    "id": 93,
     "name": "Betty Coleman",
     "status": "Dead",
     "gender": "Female",
@@ -1139,7 +1139,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/3a/Debi_Hett_Kimsey_2_%28TSK%29.png/revision/latest?cb=20200602000005"
   },
   {
-    "id": 93,
+    "id": 94,
     "name": "Emily Coleman",
     "status": "Dead",
     "gender": "Female",
@@ -1153,7 +1153,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/cb/Emily_Coleman_%28Say_the_Word%29.png/revision/latest?cb=20200530172916"
   },
   {
-    "id": 94,
+    "id": 95,
     "name": "Michael Coleman",
     "status": "Dead",
     "gender": "Male",
@@ -1163,7 +1163,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c4/Michael_Coleman_Main_Pic.JPG/revision/latest/scale-to-width-down/350?cb=20150602203753"
   },
   {
-    "id": 95,
+    "id": 96,
     "name": "Sasha Williams",
     "status": "Dead",
     "gender": "Female",
@@ -1175,7 +1175,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1c/Season_seven_sasha_williams.png/revision/latest/scale-to-width-down/350?cb=20170313234127"
   },
   {
-    "id": 96,
+    "id": 97,
     "name": "Tyreese Williams",
     "status": "Dead",
     "gender": "Male",
@@ -1187,7 +1187,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f0/Season_five_tyreese.png/revision/latest/scale-to-width-down/350?cb=20141203170026"
   },
   {
-    "id": 97,
+    "id": 98,
     "name": "Allen",
     "status": "Dead",
     "gender": "Male",
@@ -1199,7 +1199,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/46/AllenWttT.png/revision/latest?cb=20130406201301"
   },
   {
-    "id": 98,
+    "id": 99,
     "name": "Ben",
     "status": "Dead",
     "gender": "Male",
@@ -1209,7 +1209,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/af/BenCrop.PNG/revision/latest/scale-to-width-down/350?cb=20140926105824"
   },
   {
-    "id": 99,
+    "id": 100,
     "name": "Donna",
     "status": "Dead",
     "gender": "Female",
@@ -1221,7 +1221,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4f/Season_three_donna.png/revision/latest?cb=20140112195949"
   },
   {
-    "id": 100,
+    "id": 101,
     "name": "Luke",
     "status": "Unknown",
     "gender": "Male",
@@ -1231,7 +1231,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4d/Luke_4x01.png/revision/latest?cb=20220805233546"
   },
   {
-    "id": 101,
+    "id": 102,
     "name": "Molly",
     "status": "Unknown",
     "gender": "Female",
@@ -1241,7 +1241,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/69/Season_four_molly_%282%29.png/revision/latest/scale-to-width-down/350?cb=20220813165603"
   },
   {
-    "id": 102,
+    "id": 103,
     "name": "Bob Stookey",
     "status": "Dead",
     "gender": "Male",
@@ -1253,7 +1253,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a9/Season_five_bob_stookey.png/revision/latest?cb=20220901225439"
   },
   {
-    "id": 103,
+    "id": 104,
     "name": "Julio",
     "status": "Dead",
     "gender": "Male",
@@ -1263,7 +1263,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/15/JuliocropTFG.png/revision/latest/scale-to-width-down/333?cb=20131203221731"
   },
   {
-    "id": 104,
+    "id": 105,
     "name": "Henry",
     "status": "Dead",
     "gender": "Male",
@@ -1275,7 +1275,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/91/Season_four_henry.png/revision/latest?cb=20140401020038"
   },
   {
-    "id": 105,
+    "id": 106,
     "name": "Noris",
     "status": "Dead",
     "gender": "Male",
@@ -1285,7 +1285,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/15/Father_%28Internment%29.png/revision/latest?cb=20191224130805"
   },
   {
-    "id": 106,
+    "id": 107,
     "name": "Dr. Caleb Subramanian",
     "status": "Dead",
     "gender": "Male",
@@ -1295,7 +1295,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f0/Season_four_dr_subramanian.png/revision/latest/scale-to-width-down/350?cb=20210302044055"
   },
   {
-    "id": 107,
+    "id": 108,
     "name": "David",
     "status": "Dead",
     "gender": "Male",
@@ -1307,7 +1307,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/28/Season_four_david.png/revision/latest?cb=20210310021625"
   },
   {
-    "id": 108,
+    "id": 109,
     "name": "Charlie",
     "status": "Dead",
     "gender": "Male",
@@ -1319,7 +1319,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/55/Season_four_charlie.png/revision/latest/scale-to-width-down/350?cb=20180424210504"
   },
   {
-    "id": 109,
+    "id": 110,
     "name": "Patrick",
     "status": "Dead",
     "gender": "Male",
@@ -1334,7 +1334,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7f/A_Patrick_is_not_ashamed.png/revision/latest/scale-to-width-down/350?cb=20150322145843"
   },
   {
-    "id": 110,
+    "id": 111,
     "name": "Zach",
     "status": "Dead",
     "gender": "Male",
@@ -1346,7 +1346,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/cd/Season_four_zach.png/revision/latest/scale-to-width-down/350?cb=20210302041145"
   },
   {
-    "id": 111,
+    "id": 112,
     "name": "Lizzie Samuels",
     "status": "Dead",
     "gender": "Female",
@@ -1358,7 +1358,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0f/Season_four_lizzie_samuels_%282%29.png/revision/latest/scale-to-width-down/350?cb=20210302044148"
   },
   {
-    "id": 112,
+    "id": 113,
     "name": "Mika Samuels",
     "status": "Dead",
     "gender": "Female",
@@ -1370,7 +1370,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c6/Season_four_mika_samuels_%282%29.png/revision/latest/scale-to-width-down/350?cb=20210302044538"
   },
   {
-    "id": 113,
+    "id": 114,
     "name": "Ryan Samuels",
     "status": "Dead",
     "gender": "Male",
@@ -1380,7 +1380,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7c/Season_four_ryan_samuels.png/revision/latest/scale-to-width-down/350?cb=20210313145926"
   },
   {
-    "id": 114,
+    "id": 115,
     "name": "Sam",
     "status": "Dead",
     "gender": "Male",
@@ -1390,7 +1390,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/75/Season_five_sam.png/revision/latest?cb=20210728023435"
   },
   {
-    "id": 115,
+    "id": 116,
     "name": "Christopher",
     "status": "Dead",
     "gender": "Male",
@@ -1400,7 +1400,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/9e/Christopher_PP.JPG/revision/latest?cb=20140217123330"
   },
   {
-    "id": 116,
+    "id": 117,
     "name": "Clara",
     "status": "Undead",
     "gender": "Female",
@@ -1412,7 +1412,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/6a/Season_four_clara.png/revision/latest/scale-to-width-down/350?cb=20210226021901"
   },
   {
-    "id": 117,
+    "id": 118,
     "name": "Miss Wilhelm",
     "status": "Unknown",
     "gender": "Female",
@@ -1426,7 +1426,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/2e/Season_four_wilhelm.png/revision/latest?cb=20180224213531"
   },
   {
-    "id": 118,
+    "id": 119,
     "name": "Tara Chambler",
     "status": "Dead",
     "gender": "Female",
@@ -1438,7 +1438,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/63/Season_nine_tara_chambler_%282%29.png/revision/latest/scale-to-width-down/350?cb=20190318154153"
   },
   {
-    "id": 118,
+    "id": 120,
     "name": "Lilly Chambler",
     "status": "Dead",
     "gender": "Female",
@@ -1453,7 +1453,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/70/Season_four_lilly_chambler.png/revision/latest/scale-to-width-down/350?cb=20191119034038"
   },
   {
-    "id": 119,
+    "id": 121,
     "name": "Meghan Chambler",
     "status": "Dead",
     "gender": "Female",
@@ -1465,7 +1465,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/94/Season_four_meghan_chambler.png/revision/latest/scale-to-width-down/350?cb=20140707163319"
   },
   {
-    "id": 120,
+    "id": 122,
     "name": "David Chambler",
     "status": "Dead",
     "gender": "Male",
@@ -1479,7 +1479,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/6f/Season_four_david_chambler.png/revision/latest/scale-to-width-down/350?cb=20131120044437"
   },
   {
-    "id": 121,
+    "id": 123,
     "name": "Howard",
     "status": "Unknown",
     "gender": "Male",
@@ -1489,7 +1489,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/72/Extra22_%28Dead_Weight%29.png/revision/latest/scale-to-width-down/350?cb=20180822180305"
   },
   {
-    "id": 122,
+    "id": 124,
     "name": "Alisha",
     "status": "Dead",
     "gender": "Female",
@@ -1501,7 +1501,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1e/Season_four_alisha.png/revision/latest/scale-to-width-down/350?cb=20191119034019"
   },
   {
-    "id": 123,
+    "id": 125,
     "name": "Mitch Dolgen",
     "status": "Dead",
     "gender": "Male",
@@ -1513,7 +1513,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/63/Season_four_mitch_dolgen.png/revision/latest?cb=20191119034038"
   },
   {
-    "id": 124,
+    "id": 126,
     "name": "Pete Dolgen",
     "status": "Undead",
     "gender": "Male",
@@ -1529,7 +1529,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/11/Season_four_pete_dolgen.png/revision/latest/scale-to-width-down/350?cb=20191119034039"
   },
   {
-    "id": 125,
+    "id": 127,
     "name": "Eugene Porter",
     "status": "Alive",
     "gender": "Male",
@@ -1539,7 +1539,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/72/Season_eleven_eugene_porter.png/revision/latest/scale-to-width-down/350?cb=20220726013256"
   },
   {
-    "id": 126,
+    "id": 128,
     "name": "Rosita Espinosa",
     "status": "Alive",
     "gender": "Female",
@@ -1549,7 +1549,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7f/Season_eleven_rosita_espinosa.png/revision/latest/scale-to-width-down/350?cb=20220228171840"
   },
   {
-    "id": 127,
+    "id": 129,
     "name": "Abraham Ford",
     "status": "Dead",
     "gender": "Male",
@@ -1564,7 +1564,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ee/Season_six_abraham_ford.png/revision/latest/scale-to-width-down/350?cb=20210409010533"
   },
   {
-    "id": 127,
+    "id": 130,
     "name": "Ellen Ford",
     "status": "Dead",
     "gender": "Female",
@@ -1580,7 +1580,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/40/Season_five_ellen_ford.png/revision/latest/scale-to-width-down/350?cb=20141110211249"
   },
   {
-    "id": 128,
+    "id": 131,
     "name": "A.J. Ford",
     "status": "Dead",
     "gender": "Male",
@@ -1596,7 +1596,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ec/AJ-Cropped.PNG/revision/latest/scale-to-width-down/350?cb=20141120050512"
   },
   {
-    "id": 129,
+    "id": 132,
     "name": "Becca Ford",
     "status": "Dead",
     "gender": "Female",
@@ -1612,7 +1612,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/87/Season_five_becca_ford.png/revision/latest?cb=20141120050351"
   },
   {
-    "id": 130,
+    "id": 133,
     "name": "Dan",
     "status": "Dead",
     "gender": "Male",
@@ -1622,7 +1622,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7f/Season_four_dan.png/revision/latest/scale-to-width-down/350?cb=20160930014823"
   },
   {
-    "id": 131,
+    "id": 134,
     "name": "Billy",
     "status": "Dead",
     "gender": "Male",
@@ -1632,7 +1632,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a8/Season_four_billy.png/revision/latest?cb=20140330164719"
   },
   {
-    "id": 132,
+    "id": 135,
     "name": " Harley",
     "status": "Dead",
     "gender": "Male",
@@ -1645,7 +1645,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/88/Harley_Crop.jpg/revision/latest?cb=20140327181940"
   },
   {
-    "id": 133,
+    "id": 136,
     "name": "Tony",
     "status": "Dead",
     "gender": "Male",
@@ -1655,7 +1655,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ee/Season_four_tony.png/revision/latest?cb=20140401012449"
   },
   {
-    "id": 134,
+    "id": 137,
     "name": "Joe",
     "status": "Dead",
     "gender": "Male",
@@ -1665,7 +1665,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/38/Us_Joe_OS.png/revision/latest/scale-to-width-down/350?cb=20140327013040"
   },
   {
-    "id": 135,
+    "id": 138,
     "name": "Len",
     "status": "Dead",
     "gender": "Male",
@@ -1675,7 +1675,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/68/Season_four_len.png/revision/latest/scale-to-width-down/350?cb=20140330164719"
   },
   {
-    "id": 136,
+    "id": 139,
     "name": "Lou",
     "status": "Dead",
     "gender": "Male",
@@ -1685,7 +1685,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/02/Season_four_lou.png/revision/latest?cb=20140226181423"
   },
   {
-    "id": 137,
+    "id": 140,
     "name": "Martin",
     "status": "Dead",
     "gender": "Male",
@@ -1697,7 +1697,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/43/Season_five_martin.png/revision/latest?cb=20210728023003"
   },
   {
-    "id": 138,
+    "id": 141,
     "name": "Greg",
     "status": "Dead",
     "gender": "Male",
@@ -1707,7 +1707,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/cf/Season_five_greg.png/revision/latest/scale-to-width-down/350?cb=20201206012614"
   },
   {
-    "id": 139,
+    "id": 142,
     "name": "Theresa",
     "status": "Dead",
     "gender": "Female",
@@ -1719,7 +1719,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1c/TheresaFixed.PNG/revision/latest/scale-to-width-down/350?cb=20141030050658"
   },
   {
-    "id": 140,
+    "id": 143,
     "name": "Albert",
     "status": "Dead",
     "gender": "Male",
@@ -1729,7 +1729,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4c/Season_five_albert.png/revision/latest/scale-to-width-down/350?cb=20210728022810"
   },
   {
-    "id": 141,
+    "id": 144,
     "name": "Mike",
     "status": "Dead",
     "gender": "Male",
@@ -1739,7 +1739,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f0/Season_five_mike.png/revision/latest?cb=20210728022844"
   },
   {
-    "id": 142,
+    "id": 145,
     "name": "Gareth",
     "status": "Dead",
     "gender": "Male",
@@ -1751,7 +1751,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f7/Season_five_gareth.png/revision/latest/scale-to-width-down/333?cb=20180930211541"
   },
   {
-    "id": 143,
+    "id": 146,
     "name": "Mary",
     "status": "Dead",
     "gender": "Female",
@@ -1761,7 +1761,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/5e/Season_five_mary.png/revision/latest?cb=20141024011347"
   },
   {
-    "id": 144,
+    "id": 147,
     "name": "Alex",
     "status": "Dead",
     "gender": "Male",
@@ -1773,7 +1773,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/89/Season_four_alex.png/revision/latest?cb=20140401020038"
   },
   {
-    "id": 145,
+    "id": 148,
     "name": "Gabriel Stokes",
     "status": "Alive",
     "gender": "Male",
@@ -1783,7 +1783,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a7/Season_eleven_gabriel_stokes.png/revision/latest/scale-to-width-down/350?cb=20220404151411"
   },
   {
-    "id": 146,
+    "id": 149,
     "name": "Dr. Steven Edwards",
     "status": "Dead",
     "gender": "Male",
@@ -1793,7 +1793,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/d9/Season_five_steven_edwards.png/revision/latest/scale-to-width-down/350?cb=20210525132338"
   },
   {
-    "id": 147,
+    "id": 150,
     "name": "Tanaka",
     "status": "Dead",
     "gender": "Male",
@@ -1803,7 +1803,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/de/Season_five_officer_tanaka.png/revision/latest?cb=20210728023718"
   },
   {
-    "id": 148,
+    "id": 151,
     "name": "Alvarado",
     "status": "Dead",
     "gender": "Male",
@@ -1813,7 +1813,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/14/508_Alvarado.png/revision/latest?cb=20141201041001"
   },
   {
-    "id": 149,
+    "id": 152,
     "name": "Amanda Shepherd",
     "status": "Dead",
     "gender": "Female",
@@ -1823,7 +1823,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f1/Season_five_officer_shepherd.png/revision/latest/scale-to-width-down/350?cb=20141128221422"
   },
   {
-    "id": 150,
+    "id": 153,
     "name": "Bello",
     "status": "Dead",
     "gender": "Female",
@@ -1833,7 +1833,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/18/Season_five_officer_bello.png/revision/latest?cb=20141201234936"
   },
   {
-    "id": 151,
+    "id": 154,
     "name": "Licari",
     "status": "Dead",
     "gender": "Male",
@@ -1843,7 +1843,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/84/Season_five_officer_licari.png/revision/latest/scale-to-width-down/350?cb=20141128221420"
   },
   {
-    "id": 152,
+    "id": 155,
     "name": "Percy",
     "status": "Dead",
     "gender": "Male",
@@ -1853,7 +1853,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/95/Season_five_percy.png/revision/latest?cb=20200121153225"
   },
   {
-    "id": 153,
+    "id": 156,
     "name": "McGinley",
     "status": "Dead",
     "gender": "Male",
@@ -1863,7 +1863,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c6/Season_five_officer_mcginley.png/revision/latest?cb=20141201234936"
   },
   {
-    "id": 153,
+    "id": 157,
     "name": "Franco",
     "status": "Dead",
     "gender": "Male",
@@ -1873,7 +1873,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/47/508_Franco.png/revision/latest/scale-to-width-down/350?cb=20141201035741"
   },
   {
-    "id": 154,
+    "id": 158,
     "name": "Noah",
     "status": "Dead",
     "gender": "Male",
@@ -1885,7 +1885,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/dc/Season_five_noah.png/revision/latest/scale-to-width-down/350?cb=20210824095220"
   },
   {
-    "id": 155,
+    "id": 159,
     "name": "Dawn Lerner",
     "status": "Dead",
     "gender": "Female",
@@ -1895,7 +1895,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/3c/Season_five_dawn_lerner.png/revision/latest/scale-to-width-down/350?cb=20210409020443"
   },
   {
-    "id": 156,
+    "id": 160,
     "name": "O'Donnell",
     "status": "Dead",
     "gender": "Male",
@@ -1905,7 +1905,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/27/Season_five_officer_odonnell.png/revision/latest/scale-to-width-down/350?cb=20141201234936"
   },
   {
-    "id": 157,
+    "id": 161,
     "name": "Bob Lamson",
     "status": "Dead",
     "gender": "Male",
@@ -1915,7 +1915,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/10/Season_five_bob_lamson.png/revision/latest/scale-to-width-down/350?cb=20141128221421"
   },
   {
-    "id": 158,
+    "id": 162,
     "name": "Jeffries",
     "status": "Dead",
     "gender": "Male",
@@ -1927,7 +1927,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/6a/Season_five_jeffries.png/revision/latest?cb=20220504051615"
   },
   {
-    "id": 159,
+    "id": 163,
     "name": "Gorman",
     "status": "Dead",
     "gender": "Male",
@@ -1937,7 +1937,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/da/Season_five_gorman.png/revision/latest/scale-to-width-down/345?cb=20141103202413"
   },
   {
-    "id": 160,
+    "id": 164,
     "name": "Joan",
     "status": "Dead",
     "gender": "Female",
@@ -1947,7 +1947,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/cd/Season_five_joan.png/revision/latest/scale-to-width-down/350?cb=20141103204602"
   },
   {
-    "id": 161,
+    "id": 165,
     "name": "Dr. Gavin Trevitt",
     "status": "Dead",
     "gender": "Male",
@@ -1957,7 +1957,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/aa/GavinTrevitt.PNG/revision/latest/scale-to-width-down/350?cb=20141103041402"
   },
   {
-    "id": 162,
+    "id": 166,
     "name": "Hanson",
     "status": "Dead",
     "gender": "Male",
@@ -1973,7 +1973,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/91/Hanson.PNG/revision/latest?cb=20141103043515"
   },
   {
-    "id": 163,
+    "id": 167,
     "name": "Aaron",
     "status": "Alive",
     "gender": "Male",
@@ -1983,7 +1983,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/70/Season_eleven_aaron.png/revision/latest/scale-to-width-down/350?cb=20220328162935"
   },
   {
-    "id": 164,
+    "id": 168,
     "name": "Barbara",
     "status": "Alive",
     "gender": "Female",
@@ -1993,7 +1993,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/20/Season_eleven_barbara.png/revision/latest/scale-to-width-down/350?cb=20211011010414"
   },
   {
-    "id": 165,
+    "id": 169,
     "name": "Scott",
     "status": "Alive",
     "gender": "Male",
@@ -2003,7 +2003,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/63/Season_ten_scott.png/revision/latest?cb=20200225023645"
   },
   {
-    "id": 166,
+    "id": 170,
     "name": "Kyle",
     "status": "Alive",
     "gender": "Male",
@@ -2013,7 +2013,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/b8/Season_ten_kyle.png/revision/latest/scale-to-width-down/350?cb=20210301012728"
   },
   {
-    "id": 167,
+    "id": 171,
     "name": "Rick 'R.J.' Grimes Jr.",
     "status": "Alive",
     "gender": "Male",
@@ -2023,7 +2023,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/d7/Season_eleven_rj_grimes.png/revision/latest/scale-to-width-down/350?cb=20220328162950"
   },
   {
-    "id": 168,
+    "id": 172,
     "name": "Socorro Espinosa",
     "status": "Alive",
     "gender": "Female",
@@ -2033,7 +2033,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c2/Season_eleven_socorro_espinosa.png/revision/latest/scale-to-width-down/350?cb=20220228171912"
   },
   {
-    "id": 169,
+    "id": 173,
     "name": "Vincent",
     "status": "Alive",
     "gender": "Male",
@@ -2043,7 +2043,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/cd/Season_eleven_vincent.png/revision/latest/scale-to-width-down/350?cb=20210920010236"
   },
   {
-    "id": 170,
+    "id": 174,
     "name": "Heath",
     "status": "Unknown",
     "gender": "Male",
@@ -2055,7 +2055,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/da/Season_seven_heath.png/revision/latest/scale-to-width-down/350?cb=20200412171800"
   },
   {
-    "id": 171,
+    "id": 175,
     "name": "Nora",
     "status": "Unknown",
     "gender": "Female",
@@ -2065,7 +2065,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/62/Season_ten_nora.png/revision/latest/scale-to-width-down/350?cb=20191125230750"
   },
   {
-    "id": 172,
+    "id": 176,
     "name": "Mrs. Robinson",
     "status": "Unknown",
     "gender": "Female",
@@ -2075,7 +2075,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/e5/Season_nine_mrs_robinson.png/revision/latest/scale-to-width-down/350?cb=20200513044454"
   },
   {
-    "id": 173,
+    "id": 177,
     "name": "Alex",
     "status": "Unknown",
     "gender": "Male",
@@ -2085,7 +2085,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ec/Season_ten_alex.png/revision/latest?cb=20191028155056"
   },
   {
-    "id": 174,
+    "id": 178,
     "name": "Jen",
     "status": "Unknown",
     "gender": "Female",
@@ -2095,7 +2095,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/d9/Season_ten_jen.png/revision/latest?cb=20200322110854"
   },
   {
-    "id": 175,
+    "id": 179,
     "name": "Wayne",
     "status": "Unknown",
     "gender": "Male",
@@ -2105,7 +2105,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/00/Season_ten_wayne.png/revision/latest?cb=20200322110537"
   },
   {
-    "id": 176,
+    "id": 180,
     "name": "Cheryl",
     "status": "Dead",
     "gender": "Female",
@@ -2117,7 +2117,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/e7/Season_ten_cheryl.png/revision/latest/scale-to-width-down/350?cb=20191111041046"
   },
   {
-    "id": 177,
+    "id": 181,
     "name": "Enid",
     "status": "Dead",
     "gender": "Female",
@@ -2129,7 +2129,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/d0/Season_nine_enid_%282%29.png/revision/latest/scale-to-width-down/350?cb=20210712182622"
   },
   {
-    "id": 178,
+    "id": 182,
     "name": "Russ",
     "status": "Dead",
     "gender": "Male",
@@ -2143,7 +2143,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/23/Alexandria4_%28Dead_or_Alive%29.png/revision/latest?cb=20180305234738"
   },
   {
-    "id": 179,
+    "id": 183,
     "name": "Bruce",
     "status": "Dead",
     "gender": "Male",
@@ -2153,7 +2153,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/82/Season_seven_bruce.png/revision/latest/scale-to-width-down/350?cb=20200102030558"
   },
   {
-    "id": 180,
+    "id": 184,
     "name": "Tobin",
     "status": "Dead",
     "gender": "Male",
@@ -2165,7 +2165,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/46/Season_eight_tobin.png/revision/latest/scale-to-width-down/350?cb=20180329231647"
   },
   {
-    "id": 181,
+    "id": 185,
     "name": "Anna",
     "status": "Dead",
     "gender": "Female",
@@ -2177,7 +2177,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/89/Season_six_anna.png/revision/latest/scale-to-width-down/350?cb=20210409010630"
   },
   {
-    "id": 182,
+    "id": 186,
     "name": "Mikey",
     "status": "Dead",
     "gender": "Male",
@@ -2189,7 +2189,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f5/Season_five_mikey.png/revision/latest?cb=20191226181554"
   },
   {
-    "id": 183,
+    "id": 187,
     "name": "Francine",
     "status": "Dead",
     "gender": "Female",
@@ -2201,7 +2201,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/9c/Season_eight_francine.png/revision/latest/scale-to-width-down/350?cb=20210403020745"
   },
   {
-    "id": 184,
+    "id": 188,
     "name": "Kent",
     "status": "Dead",
     "gender": "Male",
@@ -2213,7 +2213,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Season_six_kent.png/revision/latest/scale-to-width-down/350?cb=20160321154213"
   },
   {
-    "id": 185,
+    "id": 189,
     "name": "Olivia",
     "status": "Dead",
     "gender": "Female",
@@ -2223,7 +2223,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/db/Season_seven_olivia.png/revision/latest/scale-to-width-down/350?cb=20210730030948"
   },
   {
-    "id": 186,
+    "id": 190,
     "name": "Dr. Denise Cloyd",
     "status": "Dead",
     "gender": "Female",
@@ -2233,7 +2233,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/60/Denise_Cloyd_%28JSS%29.png/revision/latest/scale-to-width-down/350?cb=20191229151210"
   },
   {
-    "id": 187,
+    "id": 191,
     "name": "Lucy",
     "status": "Dead",
     "gender": "Female",
@@ -2246,7 +2246,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/9e/Extra2_%28No_Way_Out%29.png/revision/latest?cb=20200107015442"
   },
   {
-    "id": 188,
+    "id": 192,
     "name": "Maya",
     "status": "Dead",
     "gender": "Female",
@@ -2259,7 +2259,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/b7/Woman_1_%28Forget%29.png/revision/latest/scale-to-width-down/350?cb=20191230043912"
   },
   {
-    "id": 189,
+    "id": 193,
     "name": "Nicholas",
     "status": "Dead",
     "gender": "Male",
@@ -2271,7 +2271,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/6f/Season_six_nicholas.png/revision/latest/scale-to-width-down/350?cb=20210308013755"
   },
   {
-    "id": 190,
+    "id": 194,
     "name": "Tommy",
     "status": "Dead",
     "gender": "Male",
@@ -2283,7 +2283,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4a/Extra6_%28Conquer%29.png/revision/latest?cb=20191227213737"
   },
   {
-    "id": 191,
+    "id": 195,
     "name": "Annie",
     "status": "Dead",
     "gender": "Female",
@@ -2293,7 +2293,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/3c/Season_six_annie.png/revision/latest/scale-to-width-down/350?cb=20210308013800"
   },
   {
-    "id": 192,
+    "id": 196,
     "name": "Will",
     "status": "Dead",
     "gender": "Male",
@@ -2309,7 +2309,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/92/Season_six_will.png/revision/latest/scale-to-width-down/350?cb=20210402144600"
   },
   {
-    "id": 193,
+    "id": 197,
     "name": "Sturgess",
     "status": "Dead",
     "gender": "Male",
@@ -2319,7 +2319,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/02/Season_six_sturgess.png/revision/latest?cb=20210310024243"
   },
   {
-    "id": 194,
+    "id": 198,
     "name": "Barnes",
     "status": "Dead",
     "gender": "Male",
@@ -2329,7 +2329,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f1/Season_six_barnes.png/revision/latest?cb=20210304034459"
   },
   {
-    "id": 195,
+    "id": 199,
     "name": "Stacy",
     "status": "Dead",
     "gender": "Female",
@@ -2343,7 +2343,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4f/Extra2_%28Forget%29.png/revision/latest?cb=20200407142755"
   },
   {
-    "id": 196,
+    "id": 200,
     "name": "Michael",
     "status": "Dead",
     "gender": "Male",
@@ -2355,7 +2355,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/95/Extra7_%28JSS%29.png/revision/latest?cb=20151102215338"
   },
   {
-    "id": 197,
+    "id": 201,
     "name": "Jeffery",
     "status": "Dead",
     "gender": "Male",
@@ -2369,7 +2369,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/ce/Extra6_%28JSS%29.png/revision/latest?cb=20151020235840"
   },
   {
-    "id": 198,
+    "id": 202,
     "name": "Richards",
     "status": "Dead",
     "gender": "Male",
@@ -2379,7 +2379,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/6c/Season_six_richards.png/revision/latest?cb=20150605213605"
   },
   {
-    "id": 199,
+    "id": 203,
     "name": "Holly",
     "status": "Dead",
     "gender": "Female",
@@ -2389,7 +2389,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0b/Season_six_holly.png/revision/latest/scale-to-width-down/316?cb=20151020234937"
   },
   {
-    "id": 200,
+    "id": 204,
     "name": "Bobby",
     "status": "Dead",
     "gender": "Male",
@@ -2403,7 +2403,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c4/Season_five_bobby.png/revision/latest?cb=20170818053041"
   },
   {
-    "id": 201,
+    "id": 205,
     "name": "Samantha",
     "status": "Dead",
     "gender": "Female",
@@ -2417,7 +2417,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ef/Extra10_%28JSS%29.png/revision/latest?cb=20151102215339"
   },
   {
-    "id": 202,
+    "id": 206,
     "name": "Charlyne",
     "status": "Dead",
     "gender": "Female",
@@ -2433,7 +2433,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/2b/Extra3_%28JSS%29.png/revision/latest/scale-to-width-down/347?cb=20151020235839"
   },
   {
-    "id": 203,
+    "id": 207,
     "name": "Dinesh",
     "status": "Dead",
     "gender": "Male",
@@ -2447,7 +2447,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/08/Extra8_%28JSS%29.png/revision/latest?cb=20200103192602"
   },
   {
-    "id": 204,
+    "id": 208,
     "name": "Erin",
     "status": "Dead",
     "gender": "Female",
@@ -2457,7 +2457,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/dc/Season_five_erin.png/revision/latest/scale-to-width-down/350?cb=20210728024551"
   },
   {
-    "id": 205,
+    "id": 209,
     "name": "O'Hara",
     "status": "Dead",
     "gender": "Male",
@@ -2471,7 +2471,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f5/Extra12c_%28JSS%29.png/revision/latest?cb=20151115052903"
   },
   {
-    "id": 206,
+    "id": 210,
     "name": "Adrian",
     "status": "Dead",
     "gender": "Male",
@@ -2485,7 +2485,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/90/Extra9_%28JSS%29.png/revision/latest?cb=20151020235841"
   },
   {
-    "id": 207,
+    "id": 211,
     "name": "Dan",
     "status": "Dead",
     "gender": "Male",
@@ -2497,7 +2497,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/fb/Extra2_%28JSS%29.png/revision/latest?cb=20151019215834"
   },
   {
-    "id": 208,
+    "id": 212,
     "name": "Park",
     "status": "Dead",
     "gender": "Male",
@@ -2509,7 +2509,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a4/Extra1_%28JSS%29.png/revision/latest?cb=20200103192552"
   },
   {
-    "id": 209,
+    "id": 213,
     "name": "Shelly Neudermeyer",
     "status": "Dead",
     "gender": "Female",
@@ -2519,7 +2519,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/20/Season_six_shelly_neudermeyer.png/revision/latest/scale-to-width-down/350?cb=20200102171855"
   },
   {
-    "id": 210,
+    "id": 214,
     "name": "Carter",
     "status": "Dead",
     "gender": "Male",
@@ -2529,7 +2529,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/94/Season_six_carter.png/revision/latest?cb=20190831184051"
   },
   {
-    "id": 211,
+    "id": 215,
     "name": "Eric Raleigh",
     "status": "Undead",
     "gender": "Male",
@@ -2541,7 +2541,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7b/Season_eight_eric_raleigh.png/revision/latest/scale-to-width-down/350?cb=20171101021119"
   },
   {
-    "id": 212,
+    "id": 216,
     "name": "Bob Miller",
     "status": "Dead",
     "gender": "Male",
@@ -2551,7 +2551,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ed/Season_six_bob_miller.png/revision/latest/scale-to-width-down/350?cb=20200506165305"
   },
   {
-    "id": 213,
+    "id": 217,
     "name": "Natalie Miller",
     "status": "Dead",
     "gender": "Female",
@@ -2563,7 +2563,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a7/Season_five_natalie_miller.png/revision/latest?cb=20150310234032"
   },
   {
-    "id": 214,
+    "id": 218,
     "name": "Spencer Monroe",
     "status": "Dead",
     "gender": "Male",
@@ -2573,7 +2573,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ef/Season_seven_spencer_monroe.png/revision/latest/scale-to-width-down/350?cb=20210909155426"
   },
   {
-    "id": 215,
+    "id": 219,
     "name": "Deanna Monroe",
     "status": "Dead",
     "gender": "Female",
@@ -2588,7 +2588,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/ce/Season_six_deanna_monroe.png/revision/latest/scale-to-width-down/350?cb=20210409010549"
   },
   {
-    "id": 216,
+    "id": 220,
     "name": "Reg Monroe",
     "status": "Dead",
     "gender": "Male",
@@ -2600,7 +2600,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/b4/Season_five_reg_monroe.png/revision/latest/scale-to-width-down/350?cb=20210831234042"
   },
   {
-    "id": 217,
+    "id": 221,
     "name": "Aiden Monroe",
     "status": "Dead",
     "gender": "Male",
@@ -2610,7 +2610,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c6/Season_five_aiden_monroe.png/revision/latest/scale-to-width-down/350?cb=20191230200707"
   },
   {
-    "id": 218,
+    "id": 222,
     "name": "Ron Anderson",
     "status": "Dead",
     "gender": "Male",
@@ -2620,7 +2620,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/81/Season_six_ron_anderson.png/revision/latest/scale-to-width-down/350?cb=20210308014215"
   },
   {
-    "id": 219,
+    "id": 223,
     "name": "Jessie Anderson",
     "status": "Dead",
     "gender": "Female",
@@ -2630,7 +2630,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/be/Season_six_jessie_anderson.png/revision/latest/scale-to-width-down/350?cb=20191231202123"
   },
   {
-    "id": 219,
+    "id": 224,
     "name": "Sam Anderson",
     "status": "Dead",
     "gender": "Female",
@@ -2642,7 +2642,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/3a/Season_six_sam_anderson.png/revision/latest/scale-to-width-down/350?cb=20210308013818"
   },
   {
-    "id": 220,
+    "id": 225,
     "name": "Dr. Pete Anderson",
     "status": "Dead",
     "gender": "Male",
@@ -2654,7 +2654,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/5f/Season_five_pete_anderson.png/revision/latest/scale-to-width-down/350?cb=20210227051958"
   },
   {
-    "id": 221,
+    "id": 226,
     "name": "David",
     "status": "Dead",
     "gender": "Male",
@@ -2669,7 +2669,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/9b/Season_six_david.png/revision/latest?cb=20151115052430"
   },
   {
-    "id": 222,
+    "id": 227,
     "name": "Betsy",
     "status": "Dead",
     "gender": "Female",
@@ -2679,7 +2679,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/64/Season_six_betsy.png/revision/latest/scale-to-width-down/350?cb=20200221012439"
   },
   {
-    "id": 223,
+    "id": 228,
     "name": "Owen",
     "status": "Dead",
     "gender": "Male",
@@ -2689,7 +2689,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/06/Season_six_alpha_wolf.png/revision/latest/scale-to-width-down/350?cb=20210806050303"
   },
   {
-    "id": 224,
+    "id": 229,
     "name": "Aphid",
     "status": "Dead",
     "gender": "Male",
@@ -2699,7 +2699,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/e0/602_Aphid_wolf.png/revision/latest?cb=20151019191008"
   },
   {
-    "id": 225,
+    "id": 230,
     "name": "Dr. E. Eastman",
     "status": "Dead",
     "gender": "Male",
@@ -2715,7 +2715,7 @@
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/96/Season_six_eastman.png/revision/latest/scale-to-width-down/350?cb=20210523194920"
   },
   {
-    "id": 226,
+    "id": 231,
     "name": "Negan Smith",
     "status": "Alive",
     "gender": "Male",
