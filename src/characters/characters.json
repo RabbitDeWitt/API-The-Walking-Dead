@@ -447,7 +447,7 @@
     },
     "death-episode": {
       "alive-confirmed": "TS-19",
-      "zombified-cconfirmed": "TS-19"
+      "zombified-confirmed": "TS-19"
     },
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/19/Season_one_candace_jenner.png/revision/latest?cb=20210606013924"
   },
@@ -2723,5 +2723,1360 @@
     "last-appearance": null,
     "death-episode": null,
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/8f/Season_eleven_negan_smith.png/revision/latest/scale-to-width-down/350?cb=20220322023925"
+  },
+  {
+    "id": 232,
+    "name": "Gracie",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "The Damned",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7c/Season_eleven_gracie.png/revision/latest/scale-to-width-down/350?cb=20210916234310"
+  },
+  {
+    "id": 233,
+    "name": "Amber",
+    "status": "Unknown",
+    "gender": "Female",
+    "first-appearance": "Sing Me a Song",
+    "last-appearance": "Wrath",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c6/Season_seven_amber.png/revision/latest/scale-to-width-down/350?cb=20210308000200"
+  },
+  {
+    "id": 234,
+    "name": "Tanya",
+    "status": "Unknown",
+    "gender": "Female",
+    "first-appearance": "Sing Me a Song",
+    "last-appearance": "A New Beginning",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/ff/Season_nine_tanya.png/revision/latest/scale-to-width-down/350?cb=20220221223505"
+  },
+  {
+    "id": 235,
+    "name": "Gina",
+    "status": "Unknown",
+    "gender": "Female",
+    "first-appearance": "Hostiles and Calamities",
+    "last-appearance": "Worth",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/45/Vendor_%28Hostiles_and_Calamities%29.png/revision/latest?cb=20191217215620"
+  },
+  {
+    "id": 236,
+    "name": "Quan",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "Hostiles and Calamities",
+    "last-appearance": "Hostiles and Calamities",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/e9/Season_ten_quan.png/revision/latest?cb=20200317215645"
+  },
+  {
+    "id": 237,
+    "name": "Potter",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "The Big Scary U",
+    "last-appearance": "A New Beginning",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/9f/Season_nine_potter.png/revision/latest?cb=20181009011645"
+  },
+  {
+    "id": 238,
+    "name": "José",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "The Big Scary U",
+    "last-appearance": "Worth",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a9/Season_eight_jose.png/revision/latest?cb=20180410012228"
+  },
+  {
+    "id": 239,
+    "name": "Brooke",
+    "status": "Unknown",
+    "gender": "Female",
+    "first-appearance": "The Big Scary U",
+    "last-appearance": "Worth",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/93/Season_eight_brooke.png/revision/latest?cb=20171121031433"
+  },
+  {
+    "id": 240,
+    "name": "Mel",
+    "status": "Unknown",
+    "gender": "Female",
+    "first-appearance": "Dead or Alive Or",
+    "last-appearance": "A New Beginning",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/b8/Season_eight_mel.png/revision/latest?cb=20181118233236"
+  },
+  {
+    "id": 241,
+    "name": "John",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "Dead or Alive Or",
+    "last-appearance": "Worth",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/20/Season_eight_john.png/revision/latest?cb=20180410012228"
+  },
+  {
+    "id": 242,
+    "name": "Marcus",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": {
+      "flashback": "Scars"
+    },
+    "last-appearance": {
+      "flashback": "Scars"
+    },
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/2a/Season_nine_marcus.png/revision/latest?cb=20190319040013"
+  },
+  {
+    "id": 243,
+    "name": "Jonah",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": {
+      "flashback": "Scars"
+    },
+    "last-appearance": {
+      "flashback": "Scars"
+    },
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/ce/Season_nine_jonah.png/revision/latest?cb=20190321031111"
+  },
+  {
+    "id": 244,
+    "name": "Alden",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Damned",
+    "last-appearance": {
+      "zombified": "No Other Way"
+    },
+    "death-episode": "No Other Way",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/15/Season_eleven_alden.png/revision/latest/scale-to-width-down/350?cb=20210830161754"
+  },
+  {
+    "id": 245,
+    "name": "Laura",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "The Cell",
+    "last-appearance": {
+      "flashback": "Here's Negan"
+    },
+    "death-episode": "Stalker",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/5b/Season_ten_laura.png/revision/latest?cb=20200225023632"
+  },
+  {
+    "id": 246,
+    "name": "Brandon",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Lines We Cross",
+    "last-appearance": "What It Always Is",
+    "death-episode": "What It Always Is",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/22/Season_ten_brandon.png/revision/latest/scale-to-width-down/350?cb=20191028144803"
+  },
+  {
+    "id": 247,
+    "name": "Frankie",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Sing Me a Song",
+    "last-appearance": "The Calm Before",
+    "death-episode": "The Calm Before",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/71/Season_nine_frankie_%282%29.png/revision/latest/scale-to-width-down/350?cb=20200505165549"
+  },
+  {
+    "id": 248,
+    "name": "D.J.",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "How It's Gotta Be",
+    "last-appearance": {
+      "hallucination": "What We Become"
+    },
+    "death-episode": "The Calm Before",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/80/Season_nine_dj_%282%29.png/revision/latest/scale-to-width-down/350?cb=20181120041945"
+  },
+  {
+    "id": 249,
+    "name": "Richie",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+      "zombified": "Adaptation"
+    },
+    "last-appearance": {
+      "corpse": "The Storm"
+    },
+    "death-episode": "Adaptation",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/8d/Season_nine_richie.png/revision/latest?cb=20190214042900"
+  },
+  {
+    "id": 250,
+    "name": "Regina",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Mercy",
+    "last-appearance": "Who Are You Now?",
+    "death-episode": "Who Are You Now?",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/ac/Season_nine_regina_%282%29.png/revision/latest/scale-to-width-down/350?cb=20200504012403"
+  },
+  {
+    "id": 251,
+    "name": "Jed",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Bridge",
+    "last-appearance": "Who Are You Now?",
+    "death-episode": "Who Are You Now?",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/5e/Season_nine_jed_%282%29.png/revision/latest/scale-to-width-down/350?cb=20200504012340"
+  },
+  {
+    "id": 252,
+    "name": "Norris",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "How It's Gotta Be",
+    "last-appearance": {
+      "zombified": "What Comes After"
+    },
+    "death-episode": {
+      "alive-offscreen": "The Obliged",
+      "zombified": "What Comes After"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/31/Season_nine_norris.png/revision/latest/scale-to-width-down/350?cb=20200511180818"
+  },
+  {
+    "id": 253,
+    "name": "Arat",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": {
+      "voice": "The Cell",
+      "physically": "Service" 
+    },
+    "last-appearance": "Warning Signs",
+    "death-episode": "Warning Signs",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/2f/Season_nine_arat.png/revision/latest?cb=20190729163342"
+  },
+  {
+    "id": 254,
+    "name": "Justin",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "A New Beginning",
+    "last-appearance": {
+      "zombified": "Warning Signs"
+    },
+    "death-episode": {
+      "alive": "The Bridge",
+      "zombified": "Warning Signs"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/38/Season_nine_justin.png/revision/latest/scale-to-width-down/350?cb=20181008205318"
+  },
+  {
+    "id": 255,
+    "name": "Simon",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Last Day on Earth",
+    "last-appearance": {
+      "hallucination": "What We Become"
+    },
+    "death-episode": {
+      "alive": "Worth",
+      "zombified-offscreen": "Wrath"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/65/Season_eight_simon.png/revision/latest/scale-to-width-down/350?cb=20180312190602"
+  },
+  {
+    "id": 256,
+    "name": "Duke",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Wrath",
+    "last-appearance": "Wrath",
+    "death-episode": "Wrath",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/d3/Season_eight_duke.png/revision/latest/scale-to-width-down/350?cb=20211023185033"
+  },
+  {
+    "id": 257,
+    "name": "Lance",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Wrath",
+    "last-appearance": "Wrath",
+    "death-episode": "Wrath",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/5a/Season_eight_lance.png/revision/latest?cb=20191128040945"
+  },
+  {
+    "id": 258,
+    "name": "Gary",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Service",
+    "last-appearance": "Worth",
+    "death-episode": "Worth",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1f/Season_eight_gary.png/revision/latest/scale-to-width-down/350?cb=20210307231746"
+  },
+  {
+    "id": 259,
+    "name": "Reilly",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Still Gotta Mean Something",
+    "last-appearance": "Still Gotta Mean Something",
+    "death-episode": "Still Gotta Mean Something",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/37/Season_eight_reilly.png/revision/latest/scale-to-width-down/350?cb=20200517035644"
+  },
+  {
+    "id": 260,
+    "name": "Derek",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Dead or Alive Or",
+    "last-appearance": "Do Not Send Us Astray",
+    "death-episode": "Do Not Send Us Astray",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/56/Season_eight_derek.png/revision/latest/scale-to-width-down/350?cb=20200517151051"
+  },
+  {
+    "id": 261,
+    "name": "Dean",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Damned",
+    "last-appearance": {
+      "zombified": "The Lost and the Plunderers" 
+    },
+    "death-episode": {
+      "alive": "How It's Gotta Be",
+      "zombified": "The Lost and the Plunderers" 
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/ff/Season_eight_dean.png/revision/latest/scale-to-width-down/350?cb=20171129023858"
+  },
+  {
+    "id": 262,
+    "name": "Gavin",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Well",
+    "last-appearance": {
+      "hallucination": "Do Not Send Us Astray"  
+    },
+    "death-episode": "Honor",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/52/Season_eight_gavin.png/revision/latest/scale-to-width-down/350?cb=20171212023642"
+  },
+  {
+    "id": 263,
+    "name": "Gomez",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Honor",
+    "last-appearance": "Honor",
+    "death-episode": "Honor",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/ac/Savior6_%28Honor%29.png/revision/latest/scale-to-width-down/350?cb=20200520221250"
+  },
+  {
+    "id": 264,
+    "name": "Paulie",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Honor",
+    "last-appearance": "Honor",
+    "death-episode": "Honor",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/79/Savior3_%28Honor%29.png/revision/latest/scale-to-width-down/350?cb=20200520221228"
+  },
+  {
+    "id": 265,
+    "name": "Duke",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Honor",
+    "last-appearance": "Honor",
+    "death-episode": "Honor",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/84/Savior4_%28Honor%29.png/revision/latest/scale-to-width-down/350?cb=20200520221238"
+  },
+  {
+    "id": 266,
+    "name": "Mark",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Sing Me a Song",
+    "last-appearance": "Time for After",
+    "death-episode": "Time for After",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4b/Season_seven_mark.png/revision/latest/scale-to-width-down/350?cb=20210306223506"
+  },
+  {
+    "id": 267,
+    "name": "Zia",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "The King, the Widow, and Rick",
+    "last-appearance": "The King, the Widow, and Rick",
+    "death-episode": "The King, the Widow, and Rick",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/84/Season_eight_zia.png/revision/latest/scale-to-width-down/350?cb=20200517182931"
+  },
+  {
+    "id": 268,
+    "name": "Leo",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The King, the Widow, and Rick",
+    "last-appearance": "The King, the Widow, and Rick",
+    "death-episode": "The King, the Widow, and Rick",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/65/Season_eight_leo.png/revision/latest/scale-to-width-down/350?cb=20200517182942"
+  },
+  {
+    "id": 269,
+    "name": "Yago",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Some Guy",
+    "last-appearance": "The Big Scary U",
+    "death-episode": "The Big Scary U",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/74/Season_eight_yago.png/revision/latest/scale-to-width-down/350?cb=20171116012356"
+  },
+  {
+    "id": 270,
+    "name": "Gunther",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Some Guy",
+    "last-appearance": "Some Guy",
+    "death-episode": "Some Guy",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/45/Season_eight_gunther.png/revision/latest/scale-to-width-down/350?cb=20171116030001"
+  },
+  {
+    "id": 271,
+    "name": "Rudy",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Some Guy",
+    "last-appearance": "Some Guy",
+    "death-episode": "Some Guy",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/ac/Season_eight_rudy.png/revision/latest?cb=20171116012355"
+  },
+  {
+    "id": 272,
+    "name": "Todd",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Damned",
+    "last-appearance": "Monsters",
+    "death-episode": "Monsters",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/aa/Season_eight_todd.png/revision/latest?cb=20190111075029"
+  },
+  {
+    "id": 273,
+    "name": "Dino",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Damned",
+    "last-appearance": "The Damned",
+    "death-episode": {
+      "alive-offscreen": "The Damned",
+      "zombified-offscreen": "Monsters"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/29/Season_eight_dino.png/revision/latest?cb=20191216213003"
+  },
+  {
+    "id": 274,
+    "name": "Huck",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Sing Me a Song",
+    "last-appearance": "The Damned",
+    "death-episode": "Wrath",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/34/Season_eight_huck.png/revision/latest/scale-to-width-down/350?cb=20171216204724"
+  },
+  {
+    "id": 275,
+    "name": "Wade",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Always Accountable",
+    "last-appearance": "Always Accountable",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/8b/117697.jpg/revision/latest/scale-to-width-down/350?cb=20160620084139"
+  },
+  {
+    "id": 276,
+    "name": "Cam",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Always Accountable",
+    "last-appearance": "Always Accountable",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/2e/Season_six_cam.png/revision/latest/scale-to-width-down/350?cb=20160323004000"
+  },
+  {
+    "id": 277,
+    "name": "Nelson",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The First Day of the Rest of Your Life",
+    "last-appearance": "The Damned",
+    "death-episode": "The Damned",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/ce/Season_eight_nelson.png/revision/latest/scale-to-width-down/350?cb=20171030032634"
+  },
+  {
+    "id": 278,
+    "name": "Mara",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "The Damned",
+    "last-appearance": "The Damned",
+    "death-episode": "The Damned",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4c/Season_eight_mara.png/revision/latest/scale-to-width-down/350?cb=20171101021122"
+  },
+  {
+    "id": 279,
+    "name": "Gordon",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Cell",
+    "last-appearance": "The Cell",
+    "death-episode": {
+      "zombified": "The Cell",
+      "zombified-offscreen": "Mercy"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/45/Season_seven_gordon.png/revision/latest/scale-to-width-down/350?cb=20161107053232"
+  },
+  {
+    "id": 280,
+    "name": "Roy",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Cell",
+    "last-appearance": "The First Day of the Rest of Your Life",
+    "death-episode": "The First Day of the Rest of Your Life",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/3d/Season_seven_roy.png/revision/latest/scale-to-width-down/350?cb=20170327033318"
+  },
+  {
+    "id": 281,
+    "name": "David",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Service",
+    "last-appearance": "Something They Need",
+    "death-episode": "Something They Need",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4d/Season_seven_david.png/revision/latest/scale-to-width-down/350?cb=20170427183647"
+  },
+  {
+    "id": 282,
+    "name": "Dr. Emmett Carson",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Cell",
+    "last-appearance": "Hostiles and Calamities",
+    "death-episode": "Hostiles and Calamities",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/35/Season_seven_emmett_carson.png/revision/latest/scale-to-width-down/350?cb=20170301002403"
+  },
+  {
+    "id": 283,
+    "name": "Isabelle",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Sing Me a Song",
+    "last-appearance": "Hearts Still Beating",
+    "death-episode": "Hearts Still Beating",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4a/Season_seven_isabelle.png/revision/latest/scale-to-width-down/350?cb=20220524032452"
+  },
+  {
+    "id": 284,
+    "name": "Joseph",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Cell",
+    "last-appearance": {
+      "corpse": "Hostiles and Calamities" 
+    },
+    "death-episode": "Hearts Still Beating",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ec/Season_seven_joey.png/revision/latest/scale-to-width-down/350?cb=20161206190123"
+  },
+  {
+    "id": 285,
+    "name": "Chris",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Sing Me a Song",
+    "last-appearance": "Sing Me a Song",
+    "death-episode": "Sing Me a Song",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c5/Season_seven_chris.png/revision/latest?cb=20190525210025"
+  },
+  {
+    "id": 286,
+    "name": "George",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Sing Me a Song",
+    "last-appearance": "Sing Me a Song",
+    "death-episode": "Sing Me a Song",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1b/Season_seven_george.png/revision/latest?cb=20190525211343"
+  },
+  {
+    "id": 287,
+    "name": "Neil",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Twice as Far",
+    "last-appearance": {
+      "zombified": "Service"
+    },
+    "death-episode": {
+      "alive": "Twice as Far",
+      "zombified": "Service"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a5/Season_six_neil.png/revision/latest?cb=20170418230206"
+  },
+  {
+    "id": 288,
+    "name": "Roman",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "East",
+    "last-appearance": "Last Day on Earth",
+    "death-episode": "Last Day on Earth",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/34/Season_six_roman.png/revision/latest/scale-to-width-down/350?cb=20160404235530"
+  },
+  {
+    "id": 289,
+    "name": "Jiro",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "East",
+    "last-appearance": "East",
+    "death-episode": "East",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/88/Season_six_jiro.png/revision/latest/scale-to-width-down/350?cb=20210806045736"
+  },
+  {
+    "id": 290,
+    "name": "Miles",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "East",
+    "last-appearance": "East",
+    "death-episode": "East",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/ba/Season_six_miles.png/revision/latest/scale-to-width-down/350?cb=20160404235528"
+  },
+  {
+    "id": 291,
+    "name": "Primo",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Not Tomorrow Yet",
+    "last-appearance": "The Same Boat",
+    "death-episode": "The Same Boat",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/47/Season_six_primo.png/revision/latest/scale-to-width-down/350?cb=20210806045759"
+  },
+  {
+    "id": 292,
+    "name": "Paula",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": {
+      "voice": "Not Tomorrow Yet",
+      "physically": "The Same Boat"
+    },
+    "last-appearance": "The Same Boat",
+    "death-episode": "The Same Boat",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0c/Season_six_paula.png/revision/latest/scale-to-width-down/350?cb=20210806045634"
+  },
+  {
+    "id": 293,
+    "name": "Michelle",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "The Same Boat",
+    "last-appearance": "The Same Boat",
+    "death-episode": "The Same Boat",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1f/Season_six_michelle.png/revision/latest/scale-to-width-down/350?cb=20210806045157"
+  },
+  {
+    "id": 294,
+    "name": "Molly",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "The Same Boat",
+    "last-appearance": "The Same Boat",
+    "death-episode": "The Same Boat",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/88/Season_six_molly.png/revision/latest/scale-to-width-down/350?cb=20210806045136"
+  },
+  {
+    "id": 295,
+    "name": "Donnie",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Same Boat",
+    "last-appearance": "The Same Boat",
+    "death-episode": "The Same Boat",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/88/Season_six_donnie.png/revision/latest?cb=20210806045237"
+  },
+  {
+    "id": 296,
+    "name": "Gabe",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Not Tomorrow Yet",
+    "last-appearance": "Not Tomorrow Yet",
+    "death-episode": "Not Tomorrow Yet",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/6b/Savior_2_%28Not_Tomorrow_Yet%29.png/revision/latest/scale-to-width-down/350?cb=20210806045706"
+  },
+  {
+    "id": 297,
+    "name": "Timmy",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Start to Finish",
+    "last-appearance": "No Way Out",
+    "death-episode": "No Way Out",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/5b/Savior1_%28No_Way_Out%29.png/revision/latest?cb=20160218233620"
+  },
+  {
+    "id": 298,
+    "name": "Sherry",
+    "status": "Unknown",
+    "gender": "Female",
+    "first-appearance": "Always Accountable",
+    "last-appearance": {
+      "photograph-voice": "Hostiles and Calamities" 
+    },
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/65/Season_seven_sherry.png/revision/latest/scale-to-width-down/350?cb=20190723212456"
+  },
+  {
+    "id": 299,
+    "name": "Dwight",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "Always Accountable",
+    "last-appearance": {
+      "hallucination": "What We Become"
+    },
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/17/Season_eight_dwight.png/revision/latest/scale-to-width-down/350?cb=20180402213056"
+  },
+  {
+    "id": 300,
+    "name": "Tina",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Always Accountable",
+    "last-appearance": "Always Accountable",
+    "death-episode": "Always Accountable",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/87/Season_six_tina.png/revision/latest/scale-to-width-down/350?cb=20190723213041"
+  },
+  {
+    "id": 301,
+    "name": "Ezekiel Sutton",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "The Well",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/08/Season_eleven_ezekiel.png/revision/latest/scale-to-width-down/350?cb=20220404151517"
+  },
+  {
+    "id": 302,
+    "name": "Dianne",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "The Well",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/d7/Season_eleven_dianne.png/revision/latest/scale-to-width-down/350?cb=20220314033800"
+  },
+  {
+    "id": 303,
+    "name": "Theresa",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "The Well",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/3c/Commonwealth6_%28The_Lucky_Ones%29.png/revision/latest/scale-to-width-down/350?cb=20220314221810"
+  },
+  {
+    "id": 304,
+    "name": "Joshua",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "The Well",
+    "last-appearance": "How It's Gotta Be",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/cd/Kingdom30_%28How_It%27s_Gotta_Be%29.png/revision/latest?cb=20181118032453"
+  },
+  {
+    "id": 305,
+    "name": "Jenny",
+    "status": "Unknown",
+    "gender": "Female",
+    "first-appearance": "Bury Me Here",
+    "last-appearance": "How It's Gotta Be",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/96/Kingdom1_%28How_It%27s_Gotta_Be%29.png/revision/latest?cb=20181118032447"
+  },
+  {
+    "id": 306,
+    "name": "William",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "Bounty",
+    "last-appearance": "Bounty",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/16/Season_nine_william.png/revision/latest?cb=20190226040217"
+  },
+  {
+    "id": 307,
+    "name": "Dana",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Do Not Send Us Astray",
+    "last-appearance": "Do Not Send Us Astray",
+    "death-episode": "Do Not Send Us Astray",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/16/Season_nine_william.png/revision/latest?cb=20190226040217"
+  },
+  {
+    "id": 308,
+    "name": "Kurt",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Do Not Send Us Astray",
+    "last-appearance": "Do Not Send Us Astray",
+    "death-episode": "Do Not Send Us Astray",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/37/Season_eight_kurt.png/revision/latest/scale-to-width-down/350?cb=20220128174429"
+  },
+  {
+    "id": 309,
+    "name": "Kevin",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Well",
+    "last-appearance": "Do Not Send Us Astray",
+    "death-episode": "Do Not Send Us Astray",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/93/Season_eight_kevin.png/revision/latest/scale-to-width-down/350?cb=20200513021431"
+  },
+  {
+    "id": 310,
+    "name": "Kevin",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Well",
+    "last-appearance": "Do Not Send Us Astray",
+    "death-episode": "Do Not Send Us Astray",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/93/Season_eight_kevin.png/revision/latest/scale-to-width-down/350?cb=20200513021431"
+  },
+  {
+    "id": 311,
+    "name": "Alvaro",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Well",
+    "last-appearance": "Some Guy",
+    "death-episode": "Some Guy",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/9d/Season_eight_alvaro.png/revision/latest/scale-to-width-down/350?cb=20190727025652"
+  },
+  {
+    "id": 312,
+    "name": "Daniel",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "East",
+    "last-appearance": "Some Guy",
+    "death-episode": {
+      "alive-offscreen": "Monsters",
+      "zombified": "Some Guy"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/8e/Season_eight_daniel.png/revision/latest/scale-to-width-down/350?cb=20210720173842"
+  },
+  {
+    "id": 313,
+    "name": "Colton",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Last Day on Earth",
+    "last-appearance": "The Well",
+    "death-episode": "Monsters",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/30/Season_seven_colton.png/revision/latest?cb=20161104125001"
+  },
+  {
+    "id": 314,
+    "name": "Richard",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Well",
+    "last-appearance": "Bury Me Here",
+    "death-episode": "Bury Me Here",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/04/Season_seven_richard.png/revision/latest/scale-to-width-down/350?cb=20170315014517"
+  },
+  {
+    "id": 315,
+    "name": "Jerry",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "The Well",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f4/Season_eleven_jerry.png/revision/latest/scale-to-width-down/350?cb=20220222215252"
+  },
+  {
+    "id": 316,
+    "name": "Nabila",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "Bury Me Here",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/83/Season_eleven_nabila.png/revision/latest/scale-to-width-down/350?cb=20220228024610"
+  },
+  {
+    "id": 317,
+    "name": "Ezra",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Bounty",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ef/Season_eleven_ezra.png/revision/latest/scale-to-width-down/350?cb=20220228024520"
+  },
+  {
+    "id": 318,
+    "name": "Aliyah",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Bounty",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/61/Season_eleven_aliyah.png/revision/latest/scale-to-width-down/350?cb=20220318183904"
+  },
+  {
+    "id": 319,
+    "name": "Mariam",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Bounty",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/bb/Season_eleven_mariam.png/revision/latest?cb=20220318190443"
+  },
+  {
+    "id": 320,
+    "name": "Henry",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Well",
+    "last-appearance": {
+      "hallucination": "Ghosts"
+    },
+    "death-episode": "The Calm Before",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/15/Season_nine_henry_%282%29.png/revision/latest/scale-to-width-down/350?cb=20190318154152"
+  },
+  {
+    "id": 321,
+    "name": "Benjamin",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Well",
+    "last-appearance": "Bury Me Here",
+    "death-episode": "Bury Me Here",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/79/Season_seven_benjamin.png/revision/latest/scale-to-width-down/350?cb=20210308000759"
+  },
+  {
+    "id": 322,
+    "name": "Benjamin",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Well",
+    "last-appearance": {
+      "hallucination": "Wrath"
+    },
+    "death-episode": "Still Gotta Mean Something",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/d6/Season_eight_jared.png/revision/latest/scale-to-width-down/350?cb=20180403142836"
+  },
+  {
+    "id": 323,
+    "name": "Evan",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Still Gotta Mean Something",
+    "last-appearance": "Still Gotta Mean Something",
+    "death-episode": "Still Gotta Mean Something",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7e/Season_eight_evan.png/revision/latest/scale-to-width-down/350?cb=20200517035654"
+  },
+  {
+    "id": 324,
+    "name": "Katy",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "The Damned",
+    "last-appearance": "Do Not Send Us Astray",
+    "death-episode": "Do Not Send Us Astray",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/29/Season_eight_katy.png/revision/latest/scale-to-width-down/350?cb=20200517011255"
+  },
+  {
+    "id": 325,
+    "name": "Keno",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Last Day on Earth",
+    "last-appearance": {
+      "hallucination": "What We Become"
+    },
+    "death-episode": "Do Not Send Us Astray",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/ce/Season_eight_keno.png/revision/latest?cb=20180722033355"
+  },
+  {
+    "id": 326,
+    "name": "Hershel Rhee",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+      "ultrasound": "Knots Untie",
+      "dream": "The Day Will Come When You Won't Be",
+      "physically": "A New Beginning" 
+    },
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f1/Season_eleven_hershel_rhee.png/revision/latest/scale-to-width-down/350?cb=20220321165614"
+  },
+  {
+    "id": 327,
+    "name": "Bertie",
+    "status": "Unknown",
+    "gender": "Female",
+    "first-appearance": "Knots Untie",
+    "last-appearance": "A Certain Doom",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1d/Season_ten_bertie.png/revision/latest?cb=20210816160351"
+  },
+  {
+    "id": 328,
+    "name": "Kal",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "Knots Untie",
+    "last-appearance": "The Calm Before",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7a/Season_nine_kal_%282%29.png/revision/latest?cb=20190318192409"
+  },
+  {
+    "id": 329,
+    "name": "Eduardo",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "Knots Untie",
+    "last-appearance": "Wrath",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/15/Season_eight_eduardo.png/revision/latest/scale-to-width-down/350?cb=20200515042416"
+  },
+  {
+    "id": 330,
+    "name": "Brianna",
+    "status": "Unknown",
+    "gender": "Female",
+    "first-appearance": "What It Always Is",
+    "last-appearance": "What It Always Is",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/9a/Season_ten_brianna.png/revision/latest?cb=20191214140119"
+  },
+  {
+    "id": 331,
+    "name": "Marco",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "A New Beginning",
+    "last-appearance": "Acts of God",
+    "death-episode": "Acts of God",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0c/Season_eleven_marco.png/revision/latest/scale-to-width-down/350?cb=20220324181341"
+  },
+  {
+    "id": 332,
+    "name": "Troy",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Stradivarius",
+    "last-appearance": "Out of the Ashes",
+    "death-episode": {
+      "alive": "Walk With Us",
+      "zombified": "Out of the Ashes"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4b/Coalition8_%28Walk_With_Us%29.png/revision/latest?cb=20200317215621"
+  },
+  {
+    "id": 333,
+    "name": "Roy",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Stradivarius",
+    "last-appearance": {
+      "corpse": "Rendition"
+    },
+    "death-episode": "Acheron: Part II",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/d8/Season_eleven_roy.png/revision/latest/scale-to-width-down/350?cb=20210813225030"
+  },
+  {
+    "id": 334,
+    "name": "Gage",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Stradivarius",
+    "last-appearance": "Acheron: Part II",
+    "death-episode": "Acheron: Part II",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/09/Season_eleven_gage.png/revision/latest/scale-to-width-down/350?cb=20210830161851"
+  },
+  {
+    "id": 335,
+    "name": "Oscar",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Something They Need",
+    "last-appearance": "A Certain Doom",
+    "death-episode": "A Certain Doom",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/11/Season_ten_oscar.png/revision/latest/scale-to-width-down/350?cb=20200801013602"
+  },
+  {
+    "id": 336,
+    "name": "Penny",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Morning Star",
+    "last-appearance": "Morning Star",
+    "death-episode": "Morning Star",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f9/Season_ten_penny.png/revision/latest?cb=20200309011204"
+  },
+  {
+    "id": 337,
+    "name": "Felix",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Morning Star",
+    "last-appearance": "Morning Star",
+    "death-episode": "Morning Star",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/6d/Season_ten_felix.png/revision/latest?cb=20200309011539"
+  },
+  {
+    "id": 338,
+    "name": "Adeline",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Stradivarius",
+    "last-appearance": "The Calm Before",
+    "death-episode": "The Calm Before",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/86/Season_nine_addy.png/revision/latest/scale-to-width-down/350?cb=20190312185938"
+  },
+  {
+    "id": 339,
+    "name": "Rodney",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Evolution",
+    "last-appearance": "The Calm Before",
+    "death-episode": "The Calm Before",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/be/Season_nine_rodney.png/revision/latest/scale-to-width-down/350?cb=20190312185938"
+  },
+  {
+    "id": 340,
+    "name": "Casper",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Calm Before",
+    "last-appearance": "The Calm Before",
+    "death-episode": "The Calm Before",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/52/Season_nine_casper.png/revision/latest?cb=20191214160212"
+  },
+  {
+    "id": 341,
+    "name": "Martin",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Calm Before",
+    "last-appearance": "The Calm Before",
+    "death-episode": "The Calm Before",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/07/Season_nine_martin.png/revision/latest?cb=20191214160156"
+  },
+  {
+    "id": 342,
+    "name": "Paul 'Jesus' Rovia",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Next World",
+    "last-appearance": {
+      "flashback": "Bounty"
+    },
+    "death-episode": "Evolution",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/70/Season_nine_paul_rovia_%282%29.png/revision/latest/scale-to-width-down/340?cb=20181119162359"
+  },
+  {
+    "id": 343,
+    "name": "Gregory",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Knots Untie",
+    "last-appearance": "A New Beginning",
+    "death-episode": "A New Beginning",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0d/Season_nine_gregory.png/revision/latest/scale-to-width-down/350?cb=20181009014042"
+  },
+  {
+    "id": 344,
+    "name": "Stephanie",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Knots Untie",
+    "last-appearance": "Go Getters",
+    "death-episode": {
+      "offscreen": "Do Not Send Us Astray"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1e/Extra4_%28Knots_Untie%29.png/revision/latest?cb=20160321200112"
+  },
+  {
+    "id": 345,
+    "name": "Crystal",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Knots Untie",
+    "last-appearance": "Knots Untie",
+    "death-episode": {
+      "offscreen": "Do Not Send Us Astray"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/61/Season_six_crystal.png/revision/latest/scale-to-width-down/350?cb=20200102014716"
+  },
+  {
+    "id": 346,
+    "name": "Wesley",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Knots Untie",
+    "last-appearance": "Do Not Send Us Astray",
+    "death-episode": {
+      "offscreen": "Do Not Send Us Astray"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/85/Season_eight_wesley.png/revision/latest?cb=20180327022848"
+  },
+  {
+    "id": 347,
+    "name": "Dr. Harlan Carson",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Knots Untie",
+    "last-appearance": "Dead or Alive Or",
+    "death-episode": "Dead or Alive Or",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/77/Season_eight_harlan_carson.png/revision/latest/scale-to-width-down/350?cb=20180305232454"
+  },
+  {
+    "id": 348,
+    "name": "Neil",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Knots Untie",
+    "last-appearance": "How It's Gotta Be",
+    "death-episode": "How It's Gotta Be",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/98/Extra6_%28Knots_Untie%29.png/revision/latest?cb=20160301033607"
+  },
+  {
+    "id": 349,
+    "name": "Freddie",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Knots Untie",
+    "last-appearance": "The Damned",
+    "death-episode": "The Damned",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c4/Season_eight_freddie.png/revision/latest/scale-to-width-down/350?cb=20171031005820"
+  },
+  {
+    "id": 350,
+    "name": "Andy",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Knots Untie",
+    "last-appearance": "The Damned",
+    "death-episode": "The Damned",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/82/Season_eight_andy.png/revision/latest/scale-to-width-down/350?cb=20200517202701"
+  },
+  {
+    "id": 351,
+    "name": "Earl Sutton",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "A New Beginning",
+    "last-appearance": "Walk With Us",
+    "death-episode": "Walk With Us",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/65/Season_ten_earl_sutton.png/revision/latest/scale-to-width-down/350?cb=20200313113228"
+  },
+  {
+    "id": 352,
+    "name": "Tammy Rose Sutton",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "A New Beginning",
+    "last-appearance": "The Calm Before",
+    "death-episode": "The Calm Before",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/37/Season_nine_tammy_rose_sutton_%282%29.png/revision/latest/scale-to-width-down/350?cb=20190304195610"
+  },
+  {
+    "id": 353,
+    "name": "Kenneth Sutton",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "A New Beginning",
+    "last-appearance": "A New Beginning",
+    "death-episode": "A New Beginning",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1c/KeniboiCrop.jpeg/revision/latest/scale-to-width-down/350?cb=20181227045923"
+  },
+  {
+    "id": 354,
+    "name": "Miles",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Calm Before",
+    "last-appearance": "The Calm Before",
+    "death-episode": {
+      "offscreen": "The Calm Before"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1d/Season_nine_miles.png/revision/latest?cb=20200307201020"
+  },
+  {
+    "id": 355,
+    "name": "Hilde",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "The Calm Before",
+    "last-appearance": "The Calm Before",
+    "death-episode": {
+      "offscreen": "The Calm Before"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a8/Hilde_%28The_Calm_Before%29.png/revision/latest/scale-to-width-down/350?cb=20190318154856"
+  },
+  {
+    "id": 356,
+    "name": "Craig",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Not Tomorrow Yet",
+    "last-appearance": "Not Tomorrow Yet",
+    "death-episode": {
+      "offscreen": "Do Not Send Us Astray"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/bc/Season_six_craig.png/revision/latest?cb=20200102043820"
+  },
+  {
+    "id": 357,
+    "name": "Ethan",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Knots Untie",
+    "last-appearance": "Knots Untie",
+    "death-episode": "Knots Untie",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/fb/Season_six_ethan.png/revision/latest/scale-to-width-down/350?cb=20160321200132"
   }
 ]
