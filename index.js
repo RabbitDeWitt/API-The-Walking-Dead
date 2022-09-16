@@ -44,8 +44,8 @@ function paginatedResults(model){
     }
     
     res.result = {
-      "Info": info,
-      "Characters": resultCharacters
+      "info": info,
+      "characters": resultCharacters
     }
 
 

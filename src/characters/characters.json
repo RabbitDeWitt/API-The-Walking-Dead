@@ -5122,5 +5122,728 @@
       "confirmed": "Find Me"
     },
     "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/8d/Season_ten_matthew.png/revision/latest/scale-to-width-down/350?cb=20210726180928"
+  },
+  {
+    "id": 447,
+    "name": "Livits",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "A Certain Doom",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/93/Trooper1_%28Rogue_Element%29.png/revision/latest/scale-to-width-down/350?cb=20220228214209"
+  },
+  {
+    "id": 448,
+    "name": "Garcia",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Acheron: Part I",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7c/Season_eleven_garcia.png/revision/latest/scale-to-width-down/350?cb=20210823010111"
+  },
+  {
+    "id": 449,
+    "name": "Clark",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "Acheron: Part I",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/9b/Season_eleven_clark.png/revision/latest/scale-to-width-down/350?cb=20210823150850"
+  },
+  {
+    "id": 450,
+    "name": "Evans",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Acheron: Part I",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0e/Season_eleven_evans.png/revision/latest/scale-to-width-down/350?cb=20210813225025"
+  },
+  {
+    "id": 451,
+    "name": "Sorsensen",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Acheron: Part I",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/88/Season_eleven_sorsensen.png/revision/latest/scale-to-width-down/350?cb=20210823010117"
+  },
+  {
+    "id": 452,
+    "name": "Zell",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Acheron: Part I",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/6d/Soldier6_%28Out_of_the_Ashes%29.png/revision/latest/scale-to-width-down/350?cb=20210920160231"
+  },
+  {
+    "id": 453,
+    "name": "Vazquez",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Acheron: Part I",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c5/Season_eleven_vazquez.png/revision/latest/scale-to-width-down/350?cb=20210830014728"
+  },
+  {
+    "id": 454,
+    "name": "Shira",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "Acheron: Part II",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7f/Season_eleven_shira.png/revision/latest/scale-to-width-down/350?cb=20220410003257"
+  },
+  {
+    "id": 455,
+    "name": "Lance Hornsby",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Out of the Ashes",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a4/Season_eleven_lance_hornsby.png/revision/latest/scale-to-width-down/350?cb=20220404151340"
+  },
+  {
+    "id": 456,
+    "name": "Elaine",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "Out of the Ashes",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/99/Season_eleven_elaine.png/revision/latest/scale-to-width-down/350?cb=20210920010129"
+  },
+  {
+    "id": 457,
+    "name": "Charles",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Out of the Ashes",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/db/Season_eleven_charles.png/revision/latest?cb=20220219213744"
+  },
+  {
+    "id": 458,
+    "name": "Dr. Tomichi Okumura",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Out of the Ashes",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/e2/Season_eleven_tomichi_okumura.png/revision/latest/scale-to-width-down/350?cb=20220222162041"
+  },
+  {
+    "id": 459,
+    "name": "Kasey",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Out of the Ashes",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/be/Commonwealth43_%28Out_of_the_Ashes%29.png/revision/latest?cb=20210920011222"
+  },
+  {
+    "id": 460,
+    "name": "John",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Out of the Ashes",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/70/Season_eleven_john.png/revision/latest/scale-to-width-down/350?cb=20220223164704"
+  },
+  {
+    "id": 461,
+    "name": "Kayla",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "Promises Broken",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/3d/Season_eleven_kayla.png/revision/latest/scale-to-width-down/350?cb=20220328045737"
+  },
+  {
+    "id": 462,
+    "name": "Marcus Colvin",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Promises Broken",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/79/Season_eleven_marcus_clovin.png/revision/latest/scale-to-width-down/350?cb=20210927141517"
+  },
+  {
+    "id": 463,
+    "name": "Mei",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "New Haunts",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/32/Season_eleven_mei.png/revision/latest/scale-to-width-down/350?cb=20220228024558"
+  },
+  {
+    "id": 464,
+    "name": "Celeste",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "New Haunts",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/36/Season_eleven_celeste.png/revision/latest/scale-to-width-down/350?cb=20220318183923"
+  },
+  {
+    "id": 465,
+    "name": "Thomas",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "New Haunts",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1f/Season_eleven_thomas.png/revision/latest?cb=20220228024630"
+  },
+  {
+    "id": 466,
+    "name": "Johnson",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "New Haunts",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Season_eleven_johnson.png/revision/latest?cb=20220228024538"
+  },
+  {
+    "id": 467,
+    "name": "Hart",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "New Haunts",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ec/Season_eleven_trooper_hart.png/revision/latest/scale-to-width-down/350?cb=20220228024631"
+  },
+  {
+    "id": 468,
+    "name": "Quintana",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "New Haunts",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/48/Season_eleven_quintana.png/revision/latest?cb=20220228024622"
+  },
+  {
+    "id": 469,
+    "name": "Sally",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "New Haunts",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/d5/Season_eleven_sally.png/revision/latest/scale-to-width-down/350?cb=20220228024947"
+  },
+  {
+    "id": 470,
+    "name": "Carrie",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "New Haunts",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/50/Extra2_%28Rogue_Element%29.png/revision/latest/scale-to-width-down/350?cb=20220307232927"
+  },
+  {
+    "id": 471,
+    "name": "Alexa Park",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "New Haunts",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/c/c9/Season_eleven_alexa_park.png/revision/latest/scale-to-width-down/350?cb=20220228024516"
+  },
+  {
+    "id": 472,
+    "name": "Lewis",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "New Haunts",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/03/Season_eleven_lewis.png/revision/latest/scale-to-width-down/350?cb=20220228024546"
+  },
+  {
+    "id": 473,
+    "name": "Katz",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "New Haunts",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/32/Season_eleven_katz.png/revision/latest/scale-to-width-down/350?cb=20220228024545"
+  },
+  {
+    "id": 474,
+    "name": "Murphy",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "New Haunts",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/4b/Season_eleven_murphy.png/revision/latest/scale-to-width-down/350?cb=20220228024608"
+  },
+  {
+    "id": 475,
+    "name": "Roman Calhoun",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Rogue Element",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/73/Season_eleven_roman_calhoun.png/revision/latest/scale-to-width-down/350?cb=20220228171905"
+  },
+  {
+    "id": 476,
+    "name": "Jan",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "Rogue Element",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/45/Season_eleven_jan.png/revision/latest/scale-to-width-down/350?cb=20220307020621"
+  },
+  {
+    "id": 477,
+    "name": "Theo",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "The Lucky Ones",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/af/Season_eleven_theo.png/revision/latest/scale-to-width-down/350?cb=20220314033756"
+  },
+  {
+    "id": 478,
+    "name": "Colonel Vickers",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "The Rotten Core",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/09/Season_eleven_vickers.png/revision/latest/scale-to-width-down/350?cb=20220328045759"
+  },
+  {
+    "id": 479,
+    "name": "Baker",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "The Rotten Core",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/25/Season_eleven_baker.png/revision/latest/scale-to-width-down/350?cb=20220328045713"
+  },
+  {
+    "id": 480,
+    "name": "Douglas",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "The Rotten Core",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/11/Season_eleven_douglas.png/revision/latest/scale-to-width-down/350?cb=20220328045733"
+  },
+  {
+    "id": 481,
+    "name": "Howell",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "The Rotten Core",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1f/Season_eleven_howell.png/revision/latest/scale-to-width-down/350?cb=20220328045735"
+  },
+  {
+    "id": 482,
+    "name": "Lim",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "The Rotten Core",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/d8/Season_eleven_lim.png/revision/latest/scale-to-width-down/350?cb=20220328045753"
+  },
+  {
+    "id": 483,
+    "name": "McHugh",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "The Rotten Core",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f1/Season_eleven_mchugh.png/revision/latest/scale-to-width-down/350?cb=20220328045755"
+  },
+  {
+    "id": 484,
+    "name": "Ross",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "The Rotten Core",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/4/49/Season_eleven_ross.png/revision/latest/scale-to-width-down/350?cb=20220328045757"
+  },
+  {
+    "id": 485,
+    "name": "Tyler Davis",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "A Certain Doom",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/8/8e/Season_eleven_tyler_davis.png/revision/latest/scale-to-width-down/350?cb=20220228024632"
+  },
+  {
+    "id": 486,
+    "name": "Romano",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "No Other Way",
+    "last-appearance": "Acts of God",
+    "death-episode": "Acts of God",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/e1/Season_eleven_romano.png/revision/latest/scale-to-width-down/350?cb=20220411015705"
+  },
+  {
+    "id": 487,
+    "name": "Phillips",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "No Other Way",
+    "last-appearance": "Acts of God",
+    "death-episode": "Acts of God",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/72/Commonwealth2_%28Acts_of_God%29.png/revision/latest/scale-to-width-down/350?cb=20220411015603"
+  },
+  {
+    "id": 488,
+    "name": "Castle",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Rotten Core",
+    "last-appearance": "The Rotten Core",
+    "death-episode": "The Rotten Core",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/f/f5/Season_eleven_castle.png/revision/latest?cb=20220328045715"
+  },
+  {
+    "id": 489,
+    "name": "Alves",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "The Rotten Core",
+    "last-appearance": "The Rotten Core",
+    "death-episode": "The Rotten Core",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/bf/Season_eleven_alves.png/revision/latest/scale-to-width-down/350?cb=20220328045709"
+  },
+  {
+    "id": 490,
+    "name": "Toby Carlson",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Warlords",
+    "last-appearance": {
+      "corpse": "Trust"
+    },
+    "death-episode": "The Rotten Core",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/9/9c/Season_eleven_toby_carlson.png/revision/latest/scale-to-width-down/350?cb=20220321165525"
+  },
+  {
+    "id": 491,
+    "name": "Sgt. Crowe",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Warlords",
+    "last-appearance": "The Rotten Core",
+    "death-episode": "The Rotten Core",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/d7/Season_eleven_crowe.png/revision/latest/scale-to-width-down/350?cb=20220331192139"
+  },
+  {
+    "id": 492,
+    "name": "Green",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "New Haunts",
+    "last-appearance": "The Rotten Core",
+    "death-episode": "The Rotten Core",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/3/35/Season_eleven_green.png/revision/latest/scale-to-width-down/350?cb=20220228024532"
+  },
+  {
+    "id": 493,
+    "name": "April Martens",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "The Rotten Core",
+    "last-appearance": "The Rotten Core",
+    "death-episode": "The Rotten Core",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/aa/Season_eleven_april_martens.png/revision/latest/scale-to-width-down/350?cb=20220328045711"
+  },
+  {
+    "id": 494,
+    "name": "Jake Daniels",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "New Haunts",
+    "last-appearance": "The Rotten Core",
+    "death-episode": "The Rotten Core",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1b/Season_eleven_jake_daniels.png/revision/latest/scale-to-width-down/350?cb=20220120183803"
+  },
+  {
+    "id": 495,
+    "name": "Hodges",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+      "corpse": "Warlords" 
+    },
+    "last-appearance": {
+      "corpse": "Warlords" 
+    },
+    "death-episode": {
+      "offscreen": "Warlords" 
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/d1/Trooper5_%28Warlords%29.png/revision/latest/scale-to-width-down/350?cb=20220321021744"
+  },
+  {
+    "id": 496,
+    "name": "Jesse",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Warlords",
+    "last-appearance": "Warlords",
+    "death-episode": "Warlords",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/1/1f/Season_eleven_jesse.png/revision/latest/scale-to-width-down/350?cb=20220321165449"
+  },
+  {
+    "id": 497,
+    "name": "Max Mercer",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": {
+      "voice": "The Storm",
+      "physically": "Out of the Ashes"
+    },
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/60/Season_eleven_max_mercer.png/revision/latest/scale-to-width-down/350?cb=20220916010601"
+  },
+  {
+    "id": 498,
+    "name": "Michael Mercer",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Acheron: Part I",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/0f/Season_eleven_michael_mercer.png/revision/latest/scale-to-width-down/350?cb=20220916010531"
+  },
+  {
+    "id": 499,
+    "name": "Sebastian Milton",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Promises Broken",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/d1/Season_eleven_sebastian_milton.png/revision/latest/scale-to-width-down/350?cb=20220321165630"
+  },
+  {
+    "id": 500,
+    "name": "Pamela Milton",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "New Haunts",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/ad/Season_eleven_pamela_milton.png/revision/latest/scale-to-width-down/350?cb=20220307183227"
+  },
+  {
+    "id": 501,
+    "name": "William Milton",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+      "painting": "New Haunts"
+    },
+    "last-appearance": {
+      "painting": "New Haunts"
+    },
+    "death-episode": {
+      "confirmed": "New Haunts"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/6/61/President_Milton.png/revision/latest/scale-to-width-down/350?cb=20220228171920"
+  },
+  {
+    "id": 502,
+    "name": "Craven",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+      "flashback": "Here's Negan"
+    },
+    "last-appearance": {
+      "flashback": "Here's Negan"
+    },
+    "death-episode": {
+      "flashback": "Here's Negan"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/2/29/Season_ten_craven.png/revision/latest/scale-to-width-down/350?cb=20210329171517"
+  },
+  {
+    "id": 503,
+    "name": "Annie Smith",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "Warlords",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/75/Season_eleven_annie.png/revision/latest/scale-to-width-down/350?cb=20220322023623"
+  },
+  {
+    "id": 504,
+    "name": "Ian",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "Warlords",
+    "last-appearance": "Warlords",
+    "death-episode": "Warlords",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7a/Season_eleven_ian.png/revision/latest/scale-to-width-down/350?cb=20220314151136"
+  },
+  {
+    "id": 505,
+    "name": "Hart",
+    "status": "Dead",
+    "gender": "Female",
+    "first-appearance": "Warlords",
+    "last-appearance": "Warlords",
+    "death-episode": "Warlords",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/a/a9/Season_eleven_hart.png/revision/latest/scale-to-width-down/350?cb=20220321165536"
+  },
+  {
+    "id": 506,
+    "name": "Juanita Sanchez",
+    "status": "Alive",
+    "gender": "Female",
+    "first-appearance": "Look at the Flowers",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/7/7b/Season_eleven_juanita_sanchez.png/revision/latest/scale-to-width-down/350?cb=20220228171855"
+  },
+  {
+    "id": 507,
+    "name": "Moto",
+    "status": "Alive",
+    "gender": "Male",
+    "first-appearance": "Rogue Element",
+    "last-appearance": null,
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/5/5a/Season_eleven_moto.png/revision/latest/scale-to-width-down/350?cb=20220307020212"
+  },
+  {
+    "id": 508,
+    "name": "Aiden",
+    "status": "Unknown",
+    "gender": "Female",
+    "first-appearance": "What We Become",
+    "last-appearance": "What We Become",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ef/Season_ten_aiden.png/revision/latest/scale-to-width-down/350?cb=20200323151743"
+  },
+  {
+    "id": 509,
+    "name": "Bailey",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": "What We Become",
+    "last-appearance": "What We Become",
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/e6/Season_ten_bailey.png/revision/latest/scale-to-width-down/350?cb=20200323151751"
+  },
+  {
+    "id": 510,
+    "name": "Franklin",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": {
+      "flashback": "Here's Negan"
+    },
+    "last-appearance": {
+      "flashback": "Here's Negan"
+    },
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/e3/Season_ten_franklin.png/revision/latest/scale-to-width-down/350?cb=20210329190040"
+  },
+  {
+    "id": 511,
+    "name": "Billy Johnson",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": {
+      "corpse": "Warlords"
+    },
+    "last-appearance": {
+      "corpse": "Warlords"
+    },
+    "death-episode": {
+      "confirmed": "Warlords"
+    },
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/e/ea/Season_eleven_billy_johnson.png/revision/latest/scale-to-width-down/350?cb=20220322153921"
+  },
+  {
+    "id": 512,
+    "name": "Mays",
+    "status": "Dead",
+    "gender": "Male",
+    "first-appearance": "One More",
+    "last-appearance": {
+      "dream": "Out of the Ashes"
+    },
+    "death-episode": "One More",
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/0/05/Season_ten_mays.png/revision/latest/scale-to-width-down/350?cb=20210308201516"
+  },
+  {
+    "id": 513,
+    "name": "Tom",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": {
+      "photograph": "Acheron: Part II"
+    },
+    "last-appearance": {
+      "photograph": "Acheron: Part II"
+    },
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/b/b0/Season_eleven_tom.png/revision/latest?cb=20210830014727"
+  },
+  {
+    "id": 514,
+    "name": "Jesse",
+    "status": "Unknown",
+    "gender": "Male",
+    "first-appearance": {
+      "photograph": "Acheron: Part II"
+    },
+    "last-appearance": {
+      "photograph": "Acheron: Part II"
+    },
+    "death-episode": null,
+    "photo": "https://static.wikia.nocookie.net/walkingdead/images/d/d1/Season_eleven_jesse_child.png/revision/latest?cb=20210830014726"
   }
 ]
